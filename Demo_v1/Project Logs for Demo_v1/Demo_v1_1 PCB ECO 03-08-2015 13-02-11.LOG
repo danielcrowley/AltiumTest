@@ -1,0 +1,90 @@
+Change Component DesignItemId : Designator=R1_Bat1 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R1_Bat2 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R1_Bat3 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R1_Bat4 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R1_Bat5 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R1_Bat6 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R7_Bat1 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R7_Bat2 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R7_Bat3 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R7_Bat4 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R7_Bat5 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R7_Bat6 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R8_Bat1 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R8_Bat2 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R8_Bat3 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R8_Bat4 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R8_Bat5 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R8_Bat6 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R18_Bat1 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R18_Bat2 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R18_Bat3 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R18_Bat4 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R18_Bat5 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component DesignItemId : Designator=R18_Bat6 Old DesignItemId=Res2 New DesignItemId=Res3
+Change Component Footprint: Designator=R1_Bat1 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R1_Bat2 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R1_Bat3 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R1_Bat4 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R1_Bat5 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R1_Bat6 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R7_Bat1 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R7_Bat2 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R7_Bat3 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R7_Bat4 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R7_Bat5 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R7_Bat6 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Bat1 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Bat2 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Bat3 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Bat4 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Bat5 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Bat6 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R18_Bat1 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R18_Bat2 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R18_Bat3 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R18_Bat4 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R18_Bat5 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Footprint: Designator=R18_Bat6 Old Footprint=AXIAL-0.4 New Footprint=J1-0603
+Change Component Comment : Designator=R1_Bat1 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R1_Bat2 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R1_Bat3 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R1_Bat4 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R1_Bat5 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R1_Bat6 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R7_Bat1 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R7_Bat2 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R7_Bat3 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R7_Bat4 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R7_Bat5 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R7_Bat6 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R8_Bat1 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R8_Bat2 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R8_Bat3 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R8_Bat4 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R8_Bat5 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R8_Bat6 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R18_Bat1 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R18_Bat2 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R18_Bat3 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R18_Bat4 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R18_Bat5 Old Comment=Res2 New Comment=Res3
+Change Component Comment : Designator=R18_Bat6 Old Comment=Res2 New Comment=Res3
+Added Pin To Net: NetName=NetNMOS_Bat1_1 Pin=OC_2_Bat1-3
+Added Pin To Net: NetName=NetNMOS_Bat2_1 Pin=OC_2_Bat2-3
+Added Pin To Net: NetName=NetNMOS_Bat3_1 Pin=OC_2_Bat3-3
+Added Pin To Net: NetName=NetNMOS_Bat4_1 Pin=OC_2_Bat4-3
+Added Pin To Net: NetName=NetNMOS_Bat5_1 Pin=OC_2_Bat5-3
+Added Pin To Net: NetName=NetNMOS_Bat6_1 Pin=OC_2_Bat6-3
+Added Pin To Net: NetName=NetNMOS_Bat1_1 Pin=PMos_Bat1-4
+Added Pin To Net: NetName=NetNMOS_Bat2_1 Pin=PMos_Bat2-4
+Added Pin To Net: NetName=NetNMOS_Bat3_1 Pin=PMos_Bat3-4
+Added Pin To Net: NetName=NetNMOS_Bat4_1 Pin=PMos_Bat4-4
+Added Pin To Net: NetName=NetNMOS_Bat5_1 Pin=PMos_Bat5-4
+Added Pin To Net: NetName=NetNMOS_Bat6_1 Pin=PMos_Bat6-4
+Added Pin To Net: NetName=NetNMOS_Bat1_1 Pin=R1_Bat1-1
+Added Pin To Net: NetName=NetNMOS_Bat2_1 Pin=R1_Bat2-1
+Added Pin To Net: NetName=NetNMOS_Bat3_1 Pin=R1_Bat3-1
+Added Pin To Net: NetName=NetNMOS_Bat4_1 Pin=R1_Bat4-1
+Added Pin To Net: NetName=NetNMOS_Bat5_1 Pin=R1_Bat5-1
+Added Pin To Net: NetName=NetNMOS_Bat6_1 Pin=R1_Bat6-1

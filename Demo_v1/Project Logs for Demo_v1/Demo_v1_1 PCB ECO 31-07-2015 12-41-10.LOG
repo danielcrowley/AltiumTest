@@ -1,0 +1,247 @@
+Added Component: Designator=*1(DIP34)
+Added Component: Designator=B1_Bat1(18650_PCB_HOLDER)
+Added Component: Designator=B1_Bat2(18650_PCB_HOLDER)
+Added Component: Designator=B1_Bat3(18650_PCB_HOLDER)
+Added Component: Designator=B1_Bat4(18650_PCB_HOLDER)
+Added Component: Designator=B1_Bat5(18650_PCB_HOLDER)
+Added Component: Designator=B1_Bat6(18650_PCB_HOLDER)
+Added Component: Designator=MP1(TSSOP16)
+Added Component: Designator=R1_Bat1(AXIAL-0.4)
+Added Component: Designator=R1_Bat2(AXIAL-0.4)
+Added Component: Designator=R1_Bat3(AXIAL-0.4)
+Added Component: Designator=R1_Bat4(AXIAL-0.4)
+Added Component: Designator=R1_Bat5(AXIAL-0.4)
+Added Component: Designator=R1_Bat6(AXIAL-0.4)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Component: Designator=R4(J1-0603)
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R6(J1-0603)
+Added Component: Designator=R7_Bat1(AXIAL-0.4)
+Added Component: Designator=R7_Bat2(AXIAL-0.4)
+Added Component: Designator=R7_Bat3(AXIAL-0.4)
+Added Component: Designator=R7_Bat4(AXIAL-0.4)
+Added Component: Designator=R7_Bat5(AXIAL-0.4)
+Added Component: Designator=R7_Bat6(AXIAL-0.4)
+Added Component: Designator=R8_Bat1(AXIAL-0.4)
+Added Component: Designator=R8_Bat2(AXIAL-0.4)
+Added Component: Designator=R8_Bat3(AXIAL-0.4)
+Added Component: Designator=R8_Bat4(AXIAL-0.4)
+Added Component: Designator=R8_Bat5(AXIAL-0.4)
+Added Component: Designator=R8_Bat6(AXIAL-0.4)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R14(J1-0603)
+Added Component: Designator=R15(J1-0603)
+Added Component: Designator=R16(J1-0603)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R18_Bat1(AXIAL-0.4)
+Added Component: Designator=R18_Bat2(AXIAL-0.4)
+Added Component: Designator=R18_Bat3(AXIAL-0.4)
+Added Component: Designator=R18_Bat4(AXIAL-0.4)
+Added Component: Designator=R18_Bat5(AXIAL-0.4)
+Added Component: Designator=R18_Bat6(AXIAL-0.4)
+Added Component: Designator=R19(J1-0603)
+Added Component: Designator=R20(J1-0603)
+Added Component: Designator=R21(J1-0603)
+Added Component: Designator=R22(J1-0603)
+Added Component: Designator=R23(J1-0603)
+Added Component: Designator=R24(J1-0603)
+Added Component: Designator=R25(J1-0603)
+Added Component: Designator=R26(J1-0603)
+Added Component: Designator=R27(J1-0603)
+Added Component: Designator=R28(J1-0603)
+Added Component: Designator=R29(J1-0603)
+Added Component: Designator=R30(J1-0603)
+Added Component: Designator=R31(J1-0603)
+Added Component: Designator=R32(J1-0603)
+Added Pin To Net: NetName=+5 Pin=*1-20
+Added Pin To Net: NetName=GND Pin=*1-21
+Added Pin To Net: NetName=ADC- Pin=*1-27
+Added Pin To Net: NetName=ADC+ Pin=*1-28
+Added Pin To Net: NetName=MP_A3 Pin=*1-29
+Added Pin To Net: NetName=MP_A2 Pin=*1-30
+Added Pin To Net: NetName=MP_A1 Pin=*1-31
+Added Pin To Net: NetName=M- Pin=B1_Bat1-P1
+Added Pin To Net: NetName=M- Pin=B1_Bat1-P1
+Added Pin To Net: NetName=M- Pin=B1_Bat1-P1
+Added Pin To Net: NetName=Net*2_Bat1_2 Pin=B1_Bat1-P
+Added Pin To Net: NetName=Net*2_Bat1_2 Pin=B1_Bat1-P
+Added Pin To Net: NetName=Net*2_Bat1_2 Pin=B1_Bat1-P
+Added Pin To Net: NetName=Net*2_Bat1_3 Pin=B1_Bat2-P1
+Added Pin To Net: NetName=Net*2_Bat1_3 Pin=B1_Bat2-P1
+Added Pin To Net: NetName=Net*2_Bat1_3 Pin=B1_Bat2-P1
+Added Pin To Net: NetName=Net*2_Bat2_2 Pin=B1_Bat2-P
+Added Pin To Net: NetName=Net*2_Bat2_2 Pin=B1_Bat2-P
+Added Pin To Net: NetName=Net*2_Bat2_2 Pin=B1_Bat2-P
+Added Pin To Net: NetName=Net*2_Bat2_3 Pin=B1_Bat3-P1
+Added Pin To Net: NetName=Net*2_Bat2_3 Pin=B1_Bat3-P1
+Added Pin To Net: NetName=Net*2_Bat2_3 Pin=B1_Bat3-P1
+Added Pin To Net: NetName=Net*2_Bat3_2 Pin=B1_Bat3-P
+Added Pin To Net: NetName=Net*2_Bat3_2 Pin=B1_Bat3-P
+Added Pin To Net: NetName=Net*2_Bat3_2 Pin=B1_Bat3-P
+Added Pin To Net: NetName=Net*2_Bat3_3 Pin=B1_Bat4-P1
+Added Pin To Net: NetName=Net*2_Bat3_3 Pin=B1_Bat4-P1
+Added Pin To Net: NetName=Net*2_Bat3_3 Pin=B1_Bat4-P1
+Added Pin To Net: NetName=Net*2_Bat4_2 Pin=B1_Bat4-P
+Added Pin To Net: NetName=Net*2_Bat4_2 Pin=B1_Bat4-P
+Added Pin To Net: NetName=Net*2_Bat4_2 Pin=B1_Bat4-P
+Added Pin To Net: NetName=Net*2_Bat4_3 Pin=B1_Bat5-P1
+Added Pin To Net: NetName=Net*2_Bat4_3 Pin=B1_Bat5-P1
+Added Pin To Net: NetName=Net*2_Bat4_3 Pin=B1_Bat5-P1
+Added Pin To Net: NetName=Net*2_Bat5_2 Pin=B1_Bat5-P
+Added Pin To Net: NetName=Net*2_Bat5_2 Pin=B1_Bat5-P
+Added Pin To Net: NetName=Net*2_Bat5_2 Pin=B1_Bat5-P
+Added Pin To Net: NetName=Net*2_Bat5_3 Pin=B1_Bat6-P1
+Added Pin To Net: NetName=Net*2_Bat5_3 Pin=B1_Bat6-P1
+Added Pin To Net: NetName=Net*2_Bat5_3 Pin=B1_Bat6-P1
+Added Pin To Net: NetName=Net*2_Bat6_2 Pin=B1_Bat6-P
+Added Pin To Net: NetName=Net*2_Bat6_2 Pin=B1_Bat6-P
+Added Pin To Net: NetName=Net*2_Bat6_2 Pin=B1_Bat6-P
+Added Pin To Net: NetName=ADC+ Pin=MP1-1
+Added Pin To Net: NetName=Net*2_Bat1_1 Pin=R1_Bat1-1
+Added Pin To Net: NetName=Net*2_Bat1_2 Pin=R1_Bat1-2
+Added Pin To Net: NetName=Net*2_Bat2_1 Pin=R1_Bat2-1
+Added Pin To Net: NetName=Net*2_Bat2_2 Pin=R1_Bat2-2
+Added Pin To Net: NetName=Net*2_Bat3_1 Pin=R1_Bat3-1
+Added Pin To Net: NetName=Net*2_Bat3_2 Pin=R1_Bat3-2
+Added Pin To Net: NetName=Net*2_Bat4_1 Pin=R1_Bat4-1
+Added Pin To Net: NetName=Net*2_Bat4_2 Pin=R1_Bat4-2
+Added Pin To Net: NetName=Net*2_Bat5_1 Pin=R1_Bat5-1
+Added Pin To Net: NetName=Net*2_Bat5_2 Pin=R1_Bat5-2
+Added Pin To Net: NetName=Net*2_Bat6_1 Pin=R1_Bat6-1
+Added Pin To Net: NetName=Net*2_Bat6_2 Pin=R1_Bat6-2
+Added Pin To Net: NetName=NetMP1_y0 Pin=R2-2
+Added Pin To Net: NetName=NetMP1_x6 Pin=R3-2
+Added Pin To Net: NetName=NetMP1_y1 Pin=R4-2
+Added Pin To Net: NetName=NetMP1_x5 Pin=R5-2
+Added Pin To Net: NetName=NetMP1_y2 Pin=R6-2
+Added Pin To Net: NetName=Net*4_Bat1_1 Pin=R7_Bat1-1
+Added Pin To Net: NetName=Net*2_Bat1_2 Pin=R7_Bat1-2
+Added Pin To Net: NetName=Net*4_Bat2_1 Pin=R7_Bat2-1
+Added Pin To Net: NetName=Net*2_Bat2_2 Pin=R7_Bat2-2
+Added Pin To Net: NetName=Net*4_Bat3_1 Pin=R7_Bat3-1
+Added Pin To Net: NetName=Net*2_Bat3_2 Pin=R7_Bat3-2
+Added Pin To Net: NetName=Net*4_Bat4_1 Pin=R7_Bat4-1
+Added Pin To Net: NetName=Net*2_Bat4_2 Pin=R7_Bat4-2
+Added Pin To Net: NetName=Net*4_Bat5_1 Pin=R7_Bat5-1
+Added Pin To Net: NetName=Net*2_Bat5_2 Pin=R7_Bat5-2
+Added Pin To Net: NetName=Net*4_Bat6_1 Pin=R7_Bat6-1
+Added Pin To Net: NetName=Net*2_Bat6_2 Pin=R7_Bat6-2
+Added Pin To Net: NetName=M- Pin=R8_Bat1-1
+Added Pin To Net: NetName=NetOC_2_Bat1_4 Pin=R8_Bat1-2
+Added Pin To Net: NetName=Net*2_Bat1_3 Pin=R8_Bat2-1
+Added Pin To Net: NetName=NetOC_2_Bat2_4 Pin=R8_Bat2-2
+Added Pin To Net: NetName=Net*2_Bat2_3 Pin=R8_Bat3-1
+Added Pin To Net: NetName=NetOC_2_Bat3_4 Pin=R8_Bat3-2
+Added Pin To Net: NetName=Net*2_Bat3_3 Pin=R8_Bat4-1
+Added Pin To Net: NetName=NetOC_2_Bat4_4 Pin=R8_Bat4-2
+Added Pin To Net: NetName=Net*2_Bat4_3 Pin=R8_Bat5-1
+Added Pin To Net: NetName=NetOC_2_Bat5_4 Pin=R8_Bat5-2
+Added Pin To Net: NetName=Net*2_Bat5_3 Pin=R8_Bat6-1
+Added Pin To Net: NetName=NetOC_2_Bat6_4 Pin=R8_Bat6-2
+Added Pin To Net: NetName=NetMP1_x4 Pin=R9-2
+Added Pin To Net: NetName=NetMP1_y3 Pin=R10-2
+Added Pin To Net: NetName=NetMP1_x3 Pin=R11-2
+Added Pin To Net: NetName=NetMP1_y4 Pin=R12-2
+Added Pin To Net: NetName=NetMP1_x2 Pin=R13-2
+Added Pin To Net: NetName=NetMP1_y5 Pin=R14-2
+Added Pin To Net: NetName=NetMP1_x1 Pin=R15-2
+Added Pin To Net: NetName=NetMP1_x0 Pin=R16-2
+Added Pin To Net: NetName=NetMP1_y6 Pin=R17-2
+Added Pin To Net: NetName=M- Pin=R18_Bat1-1
+Added Pin To Net: NetName=NetOC_1_Bat1_4 Pin=R18_Bat1-2
+Added Pin To Net: NetName=Net*2_Bat1_3 Pin=R18_Bat2-1
+Added Pin To Net: NetName=NetOC_1_Bat2_4 Pin=R18_Bat2-2
+Added Pin To Net: NetName=Net*2_Bat2_3 Pin=R18_Bat3-1
+Added Pin To Net: NetName=NetOC_1_Bat3_4 Pin=R18_Bat3-2
+Added Pin To Net: NetName=Net*2_Bat3_3 Pin=R18_Bat4-1
+Added Pin To Net: NetName=NetOC_1_Bat4_4 Pin=R18_Bat4-2
+Added Pin To Net: NetName=Net*2_Bat4_3 Pin=R18_Bat5-1
+Added Pin To Net: NetName=NetOC_1_Bat5_4 Pin=R18_Bat5-2
+Added Pin To Net: NetName=Net*2_Bat5_3 Pin=R18_Bat6-1
+Added Pin To Net: NetName=NetOC_1_Bat6_4 Pin=R18_Bat6-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetMP1_x0 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetMP1_x1 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetMP1_x2 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetMP1_x3 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetMP1_x4 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetMP1_x5 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=NetMP1_x6 Pin=R25-2
+Added Pin To Net: NetName=NetMP1_y0 Pin=R26-2
+Added Pin To Net: NetName=NetMP1_y1 Pin=R27-2
+Added Pin To Net: NetName=NetMP1_y2 Pin=R28-2
+Added Pin To Net: NetName=NetMP1_y3 Pin=R29-2
+Added Pin To Net: NetName=NetMP1_y4 Pin=R30-2
+Added Pin To Net: NetName=NetMP1_y5 Pin=R31-2
+Added Pin To Net: NetName=NetMP1_y6 Pin=R32-2
+Added Member To Class: ClassName=u1 Member=Component *1 Arduino_Micro
+Added Member To Class: ClassName=Bat1 Member=Component B1_Bat1 (B1) BATTERYHOLDER
+Added Member To Class: ClassName=Bat2 Member=Component B1_Bat2 (B1) BATTERYHOLDER
+Added Member To Class: ClassName=Bat3 Member=Component B1_Bat3 (B1) BATTERYHOLDER
+Added Member To Class: ClassName=Bat4 Member=Component B1_Bat4 (B1) BATTERYHOLDER
+Added Member To Class: ClassName=Bat5 Member=Component B1_Bat5 (B1) BATTERYHOLDER
+Added Member To Class: ClassName=Bat6 Member=Component B1_Bat6 (B1) BATTERYHOLDER
+Added Member To Class: ClassName=Mutliplex Member=Component MP1 Multiplexer CD4097
+Added Member To Class: ClassName=Bat1 Member=Component R1_Bat1 (R1) Res2
+Added Member To Class: ClassName=Bat2 Member=Component R1_Bat2 (R1) Res2
+Added Member To Class: ClassName=Bat3 Member=Component R1_Bat3 (R1) Res2
+Added Member To Class: ClassName=Bat4 Member=Component R1_Bat4 (R1) Res2
+Added Member To Class: ClassName=Bat5 Member=Component R1_Bat5 (R1) Res2
+Added Member To Class: ClassName=Bat6 Member=Component R1_Bat6 (R1) Res2
+Added Member To Class: ClassName=Mutliplex Member=Component R2 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R3 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R4 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R5 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R6 Res3
+Added Member To Class: ClassName=Bat1 Member=Component R7_Bat1 (R7) Res2
+Added Member To Class: ClassName=Bat2 Member=Component R7_Bat2 (R7) Res2
+Added Member To Class: ClassName=Bat3 Member=Component R7_Bat3 (R7) Res2
+Added Member To Class: ClassName=Bat4 Member=Component R7_Bat4 (R7) Res2
+Added Member To Class: ClassName=Bat5 Member=Component R7_Bat5 (R7) Res2
+Added Member To Class: ClassName=Bat6 Member=Component R7_Bat6 (R7) Res2
+Added Member To Class: ClassName=Bat1 Member=Component R8_Bat1 (R8) Res2
+Added Member To Class: ClassName=Bat2 Member=Component R8_Bat2 (R8) Res2
+Added Member To Class: ClassName=Bat3 Member=Component R8_Bat3 (R8) Res2
+Added Member To Class: ClassName=Bat4 Member=Component R8_Bat4 (R8) Res2
+Added Member To Class: ClassName=Bat5 Member=Component R8_Bat5 (R8) Res2
+Added Member To Class: ClassName=Bat6 Member=Component R8_Bat6 (R8) Res2
+Added Member To Class: ClassName=Mutliplex Member=Component R9 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R10 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R11 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R12 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R13 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R14 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R15 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R16 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R17 Res3
+Added Member To Class: ClassName=Bat1 Member=Component R18_Bat1 (R18) Res2
+Added Member To Class: ClassName=Bat2 Member=Component R18_Bat2 (R18) Res2
+Added Member To Class: ClassName=Bat3 Member=Component R18_Bat3 (R18) Res2
+Added Member To Class: ClassName=Bat4 Member=Component R18_Bat4 (R18) Res2
+Added Member To Class: ClassName=Bat5 Member=Component R18_Bat5 (R18) Res2
+Added Member To Class: ClassName=Bat6 Member=Component R18_Bat6 (R18) Res2
+Added Member To Class: ClassName=Mutliplex Member=Component R19 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R20 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R21 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R22 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R23 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R24 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R25 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R26 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R27 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R28 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R29 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R30 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R31 Res3
+Added Member To Class: ClassName=Mutliplex Member=Component R32 Res3

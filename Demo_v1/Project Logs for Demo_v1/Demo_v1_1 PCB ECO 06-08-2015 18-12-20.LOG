@@ -1,0 +1,72 @@
+Added Pin To Net: NetName=B+_Bat1 Pin=B1_Bat1-P
+Added Pin To Net: NetName=B+_Bat1 Pin=B1_Bat1-P
+Added Pin To Net: NetName=B+_Bat1 Pin=B1_Bat1-P
+Added Pin To Net: NetName=B+_Bat2 Pin=B1_Bat2-P
+Added Pin To Net: NetName=B+_Bat2 Pin=B1_Bat2-P
+Added Pin To Net: NetName=B+_Bat2 Pin=B1_Bat2-P
+Added Pin To Net: NetName=B+_Bat3 Pin=B1_Bat3-P
+Added Pin To Net: NetName=B+_Bat3 Pin=B1_Bat3-P
+Added Pin To Net: NetName=B+_Bat3 Pin=B1_Bat3-P
+Added Pin To Net: NetName=B+_Bat4 Pin=B1_Bat4-P
+Added Pin To Net: NetName=B+_Bat4 Pin=B1_Bat4-P
+Added Pin To Net: NetName=B+_Bat4 Pin=B1_Bat4-P
+Added Pin To Net: NetName=B+_Bat5 Pin=B1_Bat5-P
+Added Pin To Net: NetName=B+_Bat5 Pin=B1_Bat5-P
+Added Pin To Net: NetName=B+_Bat5 Pin=B1_Bat5-P
+Added Pin To Net: NetName=B+_Bat6 Pin=B1_Bat6-P
+Added Pin To Net: NetName=B+_Bat6 Pin=B1_Bat6-P
+Added Pin To Net: NetName=B+_Bat6 Pin=B1_Bat6-P
+Added Pin To Net: NetName=B-7 Pin=LEDDriver_Bat1-2
+Added Pin To Net: NetName=B-2 Pin=LEDDriver_Bat2-2
+Added Pin To Net: NetName=B-3 Pin=LEDDriver_Bat3-2
+Added Pin To Net: NetName=B-4 Pin=LEDDriver_Bat4-2
+Added Pin To Net: NetName=B-5 Pin=LEDDriver_Bat5-2
+Added Pin To Net: NetName=B-6 Pin=LEDDriver_Bat6-2
+Added Pin To Net: NetName=B+_Bat1 Pin=PMos_Bat1-1
+Added Pin To Net: NetName=B+_Bat2 Pin=PMos_Bat2-1
+Added Pin To Net: NetName=B+_Bat3 Pin=PMos_Bat3-1
+Added Pin To Net: NetName=B+_Bat4 Pin=PMos_Bat4-1
+Added Pin To Net: NetName=B+_Bat5 Pin=PMos_Bat5-1
+Added Pin To Net: NetName=B+_Bat6 Pin=PMos_Bat6-1
+Added Pin To Net: NetName=B+_Bat1 Pin=R1_Bat1-2
+Added Pin To Net: NetName=B+_Bat2 Pin=R1_Bat2-2
+Added Pin To Net: NetName=B+_Bat3 Pin=R1_Bat3-2
+Added Pin To Net: NetName=B+_Bat4 Pin=R1_Bat4-2
+Added Pin To Net: NetName=B+_Bat5 Pin=R1_Bat5-2
+Added Pin To Net: NetName=B+_Bat6 Pin=R1_Bat6-2
+Added Pin To Net: NetName=B+_Bat6 Pin=R5-1
+Added Pin To Net: NetName=B+_Bat1 Pin=R7_Bat1-2
+Added Pin To Net: NetName=B+_Bat2 Pin=R7_Bat2-2
+Added Pin To Net: NetName=B+_Bat3 Pin=R7_Bat3-2
+Added Pin To Net: NetName=B+_Bat4 Pin=R7_Bat4-2
+Added Pin To Net: NetName=B+_Bat5 Pin=R7_Bat5-2
+Added Pin To Net: NetName=B+_Bat6 Pin=R7_Bat6-2
+Added Pin To Net: NetName=B+_Bat5 Pin=R9-1
+Added Pin To Net: NetName=B+_Bat4 Pin=R11-1
+Added Pin To Net: NetName=B+_Bat3 Pin=R13-1
+Added Pin To Net: NetName=B+_Bat2 Pin=R15-1
+Added Pin To Net: NetName=B+_Bat1 Pin=R16-1
+Added Pin To Net: NetName=B-7 Pin=R35_Bat1-1
+Added Pin To Net: NetName=B-2 Pin=R35_Bat2-1
+Added Pin To Net: NetName=B-3 Pin=R35_Bat3-1
+Added Pin To Net: NetName=B-4 Pin=R35_Bat4-1
+Added Pin To Net: NetName=B-5 Pin=R35_Bat5-1
+Added Pin To Net: NetName=B-6 Pin=R35_Bat6-1
+Added Pin To Net: NetName=B-7 Pin=R38_Bat1-1
+Added Pin To Net: NetName=B-2 Pin=R38_Bat2-1
+Added Pin To Net: NetName=B-3 Pin=R38_Bat3-1
+Added Pin To Net: NetName=B-4 Pin=R38_Bat4-1
+Added Pin To Net: NetName=B-5 Pin=R38_Bat5-1
+Added Pin To Net: NetName=B-6 Pin=R38_Bat6-1
+Added Pin To Net: NetName=B-7 Pin=R39_Bat1-1
+Added Pin To Net: NetName=B-2 Pin=R39_Bat2-1
+Added Pin To Net: NetName=B-3 Pin=R39_Bat3-1
+Added Pin To Net: NetName=B-4 Pin=R39_Bat4-1
+Added Pin To Net: NetName=B-5 Pin=R39_Bat5-1
+Added Pin To Net: NetName=B-6 Pin=R39_Bat6-1
+Change Net Name : Old Net Name=B+_Bat1 New Net Name=B+1
+Change Net Name : Old Net Name=B+_Bat2 New Net Name=B+2
+Change Net Name : Old Net Name=B+_Bat3 New Net Name=B+3
+Change Net Name : Old Net Name=B+_Bat4 New Net Name=B+4
+Change Net Name : Old Net Name=B+_Bat5 New Net Name=B+5
+Change Net Name : Old Net Name=B+_Bat6 New Net Name=B+6

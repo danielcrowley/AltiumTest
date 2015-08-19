@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Removed Member From Class: ClassName=B2 Member=D1_$ChannelName
+Removed Member From Class: ClassName=B3 Member=D1_$ChannelName
+Removed Member From Class: ClassName=B4 Member=D1_$ChannelName
+Removed Member From Class: ClassName=B5 Member=D1_$ChannelName
+Removed Member From Class: ClassName=B6 Member=D1_$ChannelName
+Removed Member From Class: ClassName=B2 Member=D2_$ChannelName
+Removed Member From Class: ClassName=B3 Member=D2_$ChannelName
+Removed Member From Class: ClassName=B4 Member=D2_$ChannelName
+Removed Member From Class: ClassName=B5 Member=D2_$ChannelName
+Removed Member From Class: ClassName=B6 Member=D2_$ChannelName
+Removed Member From Class: ClassName=B1 Member=R3_$ChannelName
+Removed Member From Class: ClassName=B2 Member=R3_$ChannelName
+Removed Member From Class: ClassName=B3 Member=R3_$ChannelName
+Removed Member From Class: ClassName=B4 Member=R3_$ChannelName
+Removed Member From Class: ClassName=B5 Member=R3_$ChannelName
+Removed Member From Class: ClassName=B6 Member=R3_$ChannelName
+Removed Member From Class: ClassName=B2 Member=R23_$ChannelName
+Removed Member From Class: ClassName=B3 Member=R23_$ChannelName
+Removed Member From Class: ClassName=B4 Member=R23_$ChannelName
+Removed Member From Class: ClassName=B5 Member=R23_$ChannelName
+Removed Member From Class: ClassName=B6 Member=R23_$ChannelName
+Change Component Designator: OldDesignator=D1_$ChannelName NewDesignator=D1.B1
+Change Component Designator: OldDesignator=D1_$ChannelName NewDesignator=D1.B2
+Change Component Designator: OldDesignator=D1_$ChannelName NewDesignator=D1.B3
+Change Component Designator: OldDesignator=D1_$ChannelName NewDesignator=D1.B4
+Change Component Designator: OldDesignator=D1_$ChannelName NewDesignator=D1.B5
+Change Component Designator: OldDesignator=D1_$ChannelName NewDesignator=D1.B6
+Change Component Designator: OldDesignator=D2_$ChannelName NewDesignator=D2.B1
+Change Component Designator: OldDesignator=D2_$ChannelName NewDesignator=D2.B2
+Change Component Designator: OldDesignator=D2_$ChannelName NewDesignator=D2.B3
+Change Component Designator: OldDesignator=D2_$ChannelName NewDesignator=D2.B4
+Change Component Designator: OldDesignator=D2_$ChannelName NewDesignator=D2.B5
+Change Component Designator: OldDesignator=D2_$ChannelName NewDesignator=D2.B6
+Change Component Designator: OldDesignator=R3_$ChannelName NewDesignator=R3.B1
+Change Component Designator: OldDesignator=R3_$ChannelName NewDesignator=R3.B2
+Change Component Designator: OldDesignator=R3_$ChannelName NewDesignator=R3.B3
+Change Component Designator: OldDesignator=R3_$ChannelName NewDesignator=R3.B4
+Change Component Designator: OldDesignator=R3_$ChannelName NewDesignator=R3.B5
+Change Component Designator: OldDesignator=R3_$ChannelName NewDesignator=R3.B6
+Change Component Designator: OldDesignator=R23_$ChannelName NewDesignator=R23.B1
+Change Component Designator: OldDesignator=R23_$ChannelName NewDesignator=R23.B2
+Change Component Designator: OldDesignator=R23_$ChannelName NewDesignator=R23.B3
+Change Component Designator: OldDesignator=R23_$ChannelName NewDesignator=R23.B4
+Change Component Designator: OldDesignator=R23_$ChannelName NewDesignator=R23.B5
+Change Component Designator: OldDesignator=R23_$ChannelName NewDesignator=R23.B6
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Change Net Name : Old Net Name=NetD1_$ChannelName_1 New Net Name=NetD1.B6_1
+Change Net Name : Old Net Name=NetD2_$ChannelName_2 New Net Name=NetD2.B6_2
+Added Pin To Net: NetName=NetD1.B1_1 Pin=D1.B1-1
+Added Pin To Net: NetName=NetD1.B1_1 Pin=R3.B1-1
+Added Net: Name=NetD1.B1_1
+Added Pin To Net: NetName=NetD1.B2_1 Pin=D1.B2-1
+Added Pin To Net: NetName=NetD1.B2_1 Pin=R3.B2-1
+Added Net: Name=NetD1.B2_1
+Added Pin To Net: NetName=NetD1.B3_1 Pin=D1.B3-1
+Added Pin To Net: NetName=NetD1.B3_1 Pin=R3.B3-1
+Added Net: Name=NetD1.B3_1
+Added Pin To Net: NetName=NetD1.B4_1 Pin=D1.B4-1
+Added Pin To Net: NetName=NetD1.B4_1 Pin=R3.B4-1
+Added Net: Name=NetD1.B4_1
+Added Pin To Net: NetName=NetD1.B5_1 Pin=D1.B5-1
+Added Pin To Net: NetName=NetD1.B5_1 Pin=R3.B5-1
+Added Net: Name=NetD1.B5_1
+Added Pin To Net: NetName=NetD2.B1_2 Pin=D2.B1-2
+Added Pin To Net: NetName=NetD2.B1_2 Pin=R23.B1-2
+Added Net: Name=NetD2.B1_2
+Added Pin To Net: NetName=NetD2.B2_2 Pin=D2.B2-2
+Added Pin To Net: NetName=NetD2.B2_2 Pin=R23.B2-2
+Added Net: Name=NetD2.B2_2
+Added Pin To Net: NetName=NetD2.B3_2 Pin=D2.B3-2
+Added Pin To Net: NetName=NetD2.B3_2 Pin=R23.B3-2
+Added Net: Name=NetD2.B3_2
+Added Pin To Net: NetName=NetD2.B4_2 Pin=D2.B4-2
+Added Pin To Net: NetName=NetD2.B4_2 Pin=R23.B4-2
+Added Net: Name=NetD2.B4_2
+Added Pin To Net: NetName=NetD2.B5_2 Pin=D2.B5-2
+Added Pin To Net: NetName=NetD2.B5_2 Pin=R23.B5-2
+Added Net: Name=NetD2.B5_2
+Added Member To Class: ClassName=B2 Member=Component D1.B2 (D1) LED1
+Added Member To Class: ClassName=B3 Member=Component D1.B3 (D1) LED1
+Added Member To Class: ClassName=B4 Member=Component D1.B4 (D1) LED1
+Added Member To Class: ClassName=B5 Member=Component D1.B5 (D1) LED1
+Added Member To Class: ClassName=B6 Member=Component D1.B6 (D1) LED1
+Added Member To Class: ClassName=B2 Member=Component D2.B2 (D2) LED1
+Added Member To Class: ClassName=B3 Member=Component D2.B3 (D2) LED1
+Added Member To Class: ClassName=B4 Member=Component D2.B4 (D2) LED1
+Added Member To Class: ClassName=B5 Member=Component D2.B5 (D2) LED1
+Added Member To Class: ClassName=B6 Member=Component D2.B6 (D2) LED1
+Added Member To Class: ClassName=B1 Member=Component R3.B1 (R22) Res3
+Added Member To Class: ClassName=B2 Member=Component R3.B2 (R22) Res3
+Added Member To Class: ClassName=B3 Member=Component R3.B3 (R22) Res3
+Added Member To Class: ClassName=B4 Member=Component R3.B4 (R22) Res3
+Added Member To Class: ClassName=B5 Member=Component R3.B5 (R22) Res3
+Added Member To Class: ClassName=B6 Member=Component R3.B6 (R22) Res3
+Added Member To Class: ClassName=B1 Member=Component R5.B1 (R7) Res3
+Added Member To Class: ClassName=B2 Member=Component R5.B2 (R7) Res3
+Added Member To Class: ClassName=B3 Member=Component R5.B3 (R7) Res3
+Added Member To Class: ClassName=B4 Member=Component R5.B4 (R7) Res3
+Added Member To Class: ClassName=B5 Member=Component R5.B5 (R7) Res3
+Added Member To Class: ClassName=B6 Member=Component R5.B6 (R7) Res3
+Added Member To Class: ClassName=B1 Member=Component R6.B1 (R8) Res3
+Added Member To Class: ClassName=B2 Member=Component R6.B2 (R8) Res3
+Added Member To Class: ClassName=B3 Member=Component R6.B3 (R8) Res3
+Added Member To Class: ClassName=B4 Member=Component R6.B4 (R8) Res3
+Added Member To Class: ClassName=B5 Member=Component R6.B5 (R8) Res3
+Added Member To Class: ClassName=B6 Member=Component R6.B6 (R8) Res3
+Added Member To Class: ClassName=B2 Member=Component R23.B2 (R23) Res3
+Added Member To Class: ClassName=B3 Member=Component R23.B3 (R23) Res3
+Added Member To Class: ClassName=B4 Member=Component R23.B4 (R23) Res3
+Added Member To Class: ClassName=B5 Member=Component R23.B5 (R23) Res3
+Added Member To Class: ClassName=B6 Member=Component R23.B6 (R23) Res3

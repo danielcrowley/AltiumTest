@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetNMOS_Bat1_1 Pin=OC_2_Bat1-3
+Removed Pin From Net: NetName=NetNMOS_Bat2_1 Pin=OC_2_Bat2-3
+Removed Pin From Net: NetName=NetNMOS_Bat3_1 Pin=OC_2_Bat3-3
+Removed Pin From Net: NetName=NetNMOS_Bat4_1 Pin=OC_2_Bat4-3
+Removed Pin From Net: NetName=NetNMOS_Bat5_1 Pin=OC_2_Bat5-3
+Removed Pin From Net: NetName=NetNMOS_Bat6_1 Pin=OC_2_Bat6-3
+Removed Pin From Net: NetName=NetNMOS_Bat1_1 Pin=PMos_Bat1-4
+Removed Pin From Net: NetName=NetNMOS_Bat2_1 Pin=PMos_Bat2-4
+Removed Pin From Net: NetName=NetNMOS_Bat3_1 Pin=PMos_Bat3-4
+Removed Pin From Net: NetName=NetNMOS_Bat4_1 Pin=PMos_Bat4-4
+Removed Pin From Net: NetName=NetNMOS_Bat5_1 Pin=PMos_Bat5-4
+Removed Pin From Net: NetName=NetNMOS_Bat6_1 Pin=PMos_Bat6-4
+Removed Pin From Net: NetName=NetNMOS_Bat1_1 Pin=R1_Bat1-1
+Removed Pin From Net: NetName=NetNMOS_Bat2_1 Pin=R1_Bat2-1
+Removed Pin From Net: NetName=NetNMOS_Bat3_1 Pin=R1_Bat3-1
+Removed Pin From Net: NetName=NetNMOS_Bat4_1 Pin=R1_Bat4-1
+Removed Pin From Net: NetName=NetNMOS_Bat5_1 Pin=R1_Bat5-1
+Removed Pin From Net: NetName=NetNMOS_Bat6_1 Pin=R1_Bat6-1
+Added Pin To Net: NetName=NetOC_2_Bat1_3 Pin=OC_2_Bat1-3
+Added Pin To Net: NetName=NetOC_2_Bat1_3 Pin=PMos_Bat1-4
+Added Pin To Net: NetName=NetOC_2_Bat1_3 Pin=R1_Bat1-1
+Added Net: Name=NetOC_2_Bat1_3
+Added Pin To Net: NetName=NetOC_2_Bat2_3 Pin=OC_2_Bat2-3
+Added Pin To Net: NetName=NetOC_2_Bat2_3 Pin=PMos_Bat2-4
+Added Pin To Net: NetName=NetOC_2_Bat2_3 Pin=R1_Bat2-1
+Added Net: Name=NetOC_2_Bat2_3
+Added Pin To Net: NetName=NetOC_2_Bat3_3 Pin=OC_2_Bat3-3
+Added Pin To Net: NetName=NetOC_2_Bat3_3 Pin=PMos_Bat3-4
+Added Pin To Net: NetName=NetOC_2_Bat3_3 Pin=R1_Bat3-1
+Added Net: Name=NetOC_2_Bat3_3
+Added Pin To Net: NetName=NetOC_2_Bat4_3 Pin=OC_2_Bat4-3
+Added Pin To Net: NetName=NetOC_2_Bat4_3 Pin=PMos_Bat4-4
+Added Pin To Net: NetName=NetOC_2_Bat4_3 Pin=R1_Bat4-1
+Added Net: Name=NetOC_2_Bat4_3
+Added Pin To Net: NetName=NetOC_2_Bat5_3 Pin=OC_2_Bat5-3
+Added Pin To Net: NetName=NetOC_2_Bat5_3 Pin=PMos_Bat5-4
+Added Pin To Net: NetName=NetOC_2_Bat5_3 Pin=R1_Bat5-1
+Added Net: Name=NetOC_2_Bat5_3
+Added Pin To Net: NetName=NetOC_2_Bat6_3 Pin=OC_2_Bat6-3
+Added Pin To Net: NetName=NetOC_2_Bat6_3 Pin=PMos_Bat6-4
+Added Pin To Net: NetName=NetOC_2_Bat6_3 Pin=R1_Bat6-1
+Added Net: Name=NetOC_2_Bat6_3

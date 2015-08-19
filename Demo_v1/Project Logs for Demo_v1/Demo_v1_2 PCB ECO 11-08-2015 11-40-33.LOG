@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NCTRL1 Pin=*1-2
+Removed Pin From Net: NetName=PCTRL1 Pin=*1-3
+Removed Pin From Net: NetName=NCTRL2 Pin=*1-4
+Removed Pin From Net: NetName=PCTRL2 Pin=*1-9
+Removed Pin From Net: NetName=NCTRL3 Pin=*1-10
+Removed Pin From Net: NetName=PCTRL3 Pin=*1-11
+Removed Pin From Net: NetName=NCTRL4 Pin=*1-12
+Removed Pin From Net: NetName=PCTRL4 Pin=*1-13
+Removed Pin From Net: NetName=NCTRL5 Pin=*1-14
+Removed Pin From Net: NetName=PCTRL5 Pin=*1-15
+Removed Pin From Net: NetName=NCTRL6 Pin=*1-16
+Removed Pin From Net: NetName=PCTRL6 Pin=*1-17
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Added Pin To Net: NetName=PCTRL1 Pin=*1-2
+Added Pin To Net: NetName=NCTRL1 Pin=*1-3
+Added Pin To Net: NetName=PCTRL2 Pin=*1-4
+Added Pin To Net: NetName=NCTRL2 Pin=*1-9
+Added Pin To Net: NetName=PCTRL3 Pin=*1-10
+Added Pin To Net: NetName=NCTRL3 Pin=*1-11
+Added Pin To Net: NetName=PCTRL4 Pin=*1-12
+Added Pin To Net: NetName=NCTRL4 Pin=*1-13
+Added Pin To Net: NetName=PCTRL5 Pin=*1-14
+Added Pin To Net: NetName=NCTRL5 Pin=*1-15
+Added Pin To Net: NetName=PCTRL6 Pin=*1-16
+Added Pin To Net: NetName=NCTRL6 Pin=*1-17
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Added Member To Class: ClassName=B1 Member=Component R5.B1 (R7) Res3
+Added Member To Class: ClassName=B2 Member=Component R5.B2 (R7) Res3
+Added Member To Class: ClassName=B3 Member=Component R5.B3 (R7) Res3
+Added Member To Class: ClassName=B4 Member=Component R5.B4 (R7) Res3
+Added Member To Class: ClassName=B5 Member=Component R5.B5 (R7) Res3
+Added Member To Class: ClassName=B6 Member=Component R5.B6 (R7) Res3
+Added Member To Class: ClassName=B1 Member=Component R6.B1 (R8) Res3
+Added Member To Class: ClassName=B2 Member=Component R6.B2 (R8) Res3
+Added Member To Class: ClassName=B3 Member=Component R6.B3 (R8) Res3
+Added Member To Class: ClassName=B4 Member=Component R6.B4 (R8) Res3
+Added Member To Class: ClassName=B5 Member=Component R6.B5 (R8) Res3
+Added Member To Class: ClassName=B6 Member=Component R6.B6 (R8) Res3

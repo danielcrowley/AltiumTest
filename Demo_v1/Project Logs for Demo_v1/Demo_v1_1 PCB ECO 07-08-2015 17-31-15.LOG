@@ -1,0 +1,35 @@
+Added Component: Designator=R7_Bat1(J1-0603)
+Added Component: Designator=R18_Bat1(J1-0603)
+Added Pin To Net: NetName=B-7 Pin=NMOS_Bat1-1
+Added Pin To Net: NetName=NetNMOS_Bat1_1 Pin=NMOS_Bat1-4
+Added Pin To Net: NetName=B-2 Pin=NMOS_Bat1-5
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat1-1
+Added Pin To Net: NetName=NCTRL1 Pin=OC_1_Bat1-2
+Added Pin To Net: NetName=NetOC_1_Bat1_3 Pin=OC_1_Bat1-3
+Added Pin To Net: NetName=NetNMOS_Bat1_1 Pin=OC_1_Bat1-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat1-1
+Added Pin To Net: NetName=PCTRL1 Pin=OC_2_Bat1-2
+Added Pin To Net: NetName=NetOC_2_Bat1_3 Pin=OC_2_Bat1-3
+Added Pin To Net: NetName=NetOC_2_Bat1_4 Pin=OC_2_Bat1-4
+Added Pin To Net: NetName=B+1 Pin=PMos_Bat1-1
+Added Pin To Net: NetName=NetOC_2_Bat1_4 Pin=PMos_Bat1-4
+Added Pin To Net: NetName=B-2 Pin=PMos_Bat1-5
+Added Pin To Net: NetName=NetOC_2_Bat1_4 Pin=R1_Bat1-1
+Added Pin To Net: NetName=B+1 Pin=R1_Bat1-2
+Added Pin To Net: NetName=NetNMOS_Bat1_1 Pin=R7_Bat1-1
+Added Pin To Net: NetName=B+1 Pin=R7_Bat1-2
+Added Pin To Net: NetName=B-7 Pin=R8_Bat1-1
+Added Pin To Net: NetName=NetOC_2_Bat1_3 Pin=R8_Bat1-2
+Added Pin To Net: NetName=B-7 Pin=R18_Bat1-1
+Added Pin To Net: NetName=NetOC_1_Bat1_3 Pin=R18_Bat1-2
+Added Member To Class: ClassName=Bat1 Member=Component NMOS_Bat1 (NMOS) Mosfet-N
+Added Member To Class: ClassName=Bat1 Member=Component OC_1_Bat1 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat1 Member=Component OC_2_Bat1 (OC_2) OptoCoupler
+Added Member To Class: ClassName=Bat1 Member=Component PMos_Bat1 (PMos) Mosfet-P
+Added Member To Class: ClassName=Bat1 Member=Component R1_Bat1 (R1) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R7_Bat1 (R7) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R8_Bat1 (R8) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R18_Bat1 (R18) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R33_Bat1 (R33) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R34_Bat1 (R34) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R35_Bat1 (R35) Res3

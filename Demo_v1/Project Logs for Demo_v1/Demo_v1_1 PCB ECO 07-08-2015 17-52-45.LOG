@@ -1,0 +1,139 @@
+Change Component Designator: OldDesignator=MP NewDesignator=MP1
+Change Component Designator: OldDesignator=R1_Bat1 NewDesignator=R29_Bat1
+Change Component Designator: OldDesignator=R1_Bat2 NewDesignator=R29_Bat2
+Change Component Designator: OldDesignator=R1_Bat3 NewDesignator=R29_Bat3
+Change Component Designator: OldDesignator=R1_Bat4 NewDesignator=R29_Bat4
+Change Component Designator: OldDesignator=R1_Bat5 NewDesignator=R29_Bat5
+Change Component Designator: OldDesignator=R1_Bat6 NewDesignator=R29_Bat6
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7_Bat1 NewDesignator=R30_Bat1
+Change Component Designator: OldDesignator=R7_Bat2 NewDesignator=R30_Bat2
+Change Component Designator: OldDesignator=R7_Bat3 NewDesignator=R30_Bat3
+Change Component Designator: OldDesignator=R7_Bat4 NewDesignator=R30_Bat4
+Change Component Designator: OldDesignator=R7_Bat5 NewDesignator=R30_Bat5
+Change Component Designator: OldDesignator=R7_Bat6 NewDesignator=R30_Bat6
+Change Component Designator: OldDesignator=R8_Bat1 NewDesignator=R32_Bat1
+Change Component Designator: OldDesignator=R8_Bat2 NewDesignator=R32_Bat2
+Change Component Designator: OldDesignator=R8_Bat3 NewDesignator=R32_Bat3
+Change Component Designator: OldDesignator=R8_Bat4 NewDesignator=R32_Bat4
+Change Component Designator: OldDesignator=R8_Bat5 NewDesignator=R32_Bat5
+Change Component Designator: OldDesignator=R8_Bat6 NewDesignator=R32_Bat6
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R14
+Change Component Designator: OldDesignator=R18_Bat1 NewDesignator=R33_Bat1
+Change Component Designator: OldDesignator=R18_Bat2 NewDesignator=R33_Bat2
+Change Component Designator: OldDesignator=R18_Bat3 NewDesignator=R33_Bat3
+Change Component Designator: OldDesignator=R18_Bat4 NewDesignator=R33_Bat4
+Change Component Designator: OldDesignator=R18_Bat5 NewDesignator=R33_Bat5
+Change Component Designator: OldDesignator=R18_Bat6 NewDesignator=R33_Bat6
+Change Component Designator: OldDesignator=R19 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R16
+Change Component Designator: OldDesignator=R21 NewDesignator=R17
+Change Component Designator: OldDesignator=R22 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=R26 NewDesignator=R22
+Change Component Designator: OldDesignator=R27 NewDesignator=R23
+Change Component Designator: OldDesignator=R28 NewDesignator=R24
+Change Component Designator: OldDesignator=R29 NewDesignator=R25
+Change Component Designator: OldDesignator=R30 NewDesignator=R26
+Change Component Designator: OldDesignator=R31 NewDesignator=R27
+Change Component Designator: OldDesignator=R32 NewDesignator=R28
+Change Component Designator: OldDesignator=R33_Bat1 NewDesignator=R34_Bat1
+Change Component Designator: OldDesignator=R33_Bat2 NewDesignator=R34_Bat2
+Change Component Designator: OldDesignator=R33_Bat3 NewDesignator=R34_Bat3
+Change Component Designator: OldDesignator=R33_Bat4 NewDesignator=R34_Bat4
+Change Component Designator: OldDesignator=R33_Bat5 NewDesignator=R34_Bat5
+Change Component Designator: OldDesignator=R33_Bat6 NewDesignator=R34_Bat6
+Change Component Designator: OldDesignator=R34_Bat1 NewDesignator=R35_Bat1
+Change Component Designator: OldDesignator=R34_Bat2 NewDesignator=R35_Bat2
+Change Component Designator: OldDesignator=R34_Bat3 NewDesignator=R35_Bat3
+Change Component Designator: OldDesignator=R34_Bat4 NewDesignator=R35_Bat4
+Change Component Designator: OldDesignator=R34_Bat5 NewDesignator=R35_Bat5
+Change Component Designator: OldDesignator=R34_Bat6 NewDesignator=R35_Bat6
+Change Component Designator: OldDesignator=R35_Bat1 NewDesignator=R36_Bat1
+Change Component Designator: OldDesignator=R35_Bat2 NewDesignator=R36_Bat2
+Change Component Designator: OldDesignator=R35_Bat3 NewDesignator=R36_Bat3
+Change Component Designator: OldDesignator=R35_Bat4 NewDesignator=R36_Bat4
+Change Component Designator: OldDesignator=R35_Bat5 NewDesignator=R36_Bat5
+Change Component Designator: OldDesignator=R35_Bat6 NewDesignator=R36_Bat6
+Change Component Designator: OldDesignator=R36_Bat1 NewDesignator=R37_Bat1
+Change Component Designator: OldDesignator=R36_Bat2 NewDesignator=R37_Bat2
+Change Component Designator: OldDesignator=R36_Bat3 NewDesignator=R37_Bat3
+Change Component Designator: OldDesignator=R36_Bat4 NewDesignator=R37_Bat4
+Change Component Designator: OldDesignator=R36_Bat5 NewDesignator=R37_Bat5
+Change Component Designator: OldDesignator=R36_Bat6 NewDesignator=R37_Bat6
+Change Component Designator: OldDesignator=R37_Bat1 NewDesignator=R38_Bat1
+Change Component Designator: OldDesignator=R37_Bat2 NewDesignator=R38_Bat2
+Change Component Designator: OldDesignator=R37_Bat3 NewDesignator=R38_Bat3
+Change Component Designator: OldDesignator=R37_Bat4 NewDesignator=R38_Bat4
+Change Component Designator: OldDesignator=R37_Bat5 NewDesignator=R38_Bat5
+Change Component Designator: OldDesignator=R37_Bat6 NewDesignator=R38_Bat6
+Change Component Designator: OldDesignator=R38_Bat1 NewDesignator=R39_Bat1
+Change Component Designator: OldDesignator=R38_Bat2 NewDesignator=R39_Bat2
+Change Component Designator: OldDesignator=R38_Bat3 NewDesignator=R39_Bat3
+Change Component Designator: OldDesignator=R38_Bat4 NewDesignator=R39_Bat4
+Change Component Designator: OldDesignator=R38_Bat5 NewDesignator=R39_Bat5
+Change Component Designator: OldDesignator=R38_Bat6 NewDesignator=R39_Bat6
+Change Component Designator: OldDesignator=R39_Bat1 NewDesignator=R40_Bat1
+Change Component Designator: OldDesignator=R39_Bat2 NewDesignator=R40_Bat2
+Change Component Designator: OldDesignator=R39_Bat3 NewDesignator=R40_Bat3
+Change Component Designator: OldDesignator=R39_Bat4 NewDesignator=R40_Bat4
+Change Component Designator: OldDesignator=R39_Bat5 NewDesignator=R40_Bat5
+Change Component Designator: OldDesignator=R39_Bat6 NewDesignator=R40_Bat6
+Added Component: Designator=R31_Bat1(J1-0603)
+Added Component: Designator=R31_Bat2(J1-0603)
+Added Component: Designator=R31_Bat3(J1-0603)
+Added Component: Designator=R31_Bat4(J1-0603)
+Added Component: Designator=R31_Bat5(J1-0603)
+Added Component: Designator=R31_Bat6(J1-0603)
+Added Pin To Net: NetName=B-7 Pin=R31_Bat1-1
+Added Pin To Net: NetName=B-2 Pin=R31_Bat1-2
+Added Pin To Net: NetName=B-2 Pin=R31_Bat2-1
+Added Pin To Net: NetName=B-3 Pin=R31_Bat2-2
+Added Pin To Net: NetName=B-3 Pin=R31_Bat3-1
+Added Pin To Net: NetName=B-4 Pin=R31_Bat3-2
+Added Pin To Net: NetName=B-4 Pin=R31_Bat4-1
+Added Pin To Net: NetName=B-5 Pin=R31_Bat4-2
+Added Pin To Net: NetName=B-5 Pin=R31_Bat5-1
+Added Pin To Net: NetName=B-6 Pin=R31_Bat5-2
+Added Pin To Net: NetName=B-6 Pin=R31_Bat6-1
+Added Pin To Net: NetName=B+7 Pin=R31_Bat6-2
+Change Net Name : Old Net Name=NetMP_x0 New Net Name=NetMP1_x0
+Change Net Name : Old Net Name=NetMP_x1 New Net Name=NetMP1_x1
+Change Net Name : Old Net Name=NetMP_x2 New Net Name=NetMP1_x2
+Change Net Name : Old Net Name=NetMP_x3 New Net Name=NetMP1_x3
+Change Net Name : Old Net Name=NetMP_x4 New Net Name=NetMP1_x4
+Change Net Name : Old Net Name=NetMP_x5 New Net Name=NetMP1_x5
+Change Net Name : Old Net Name=NetMP_x6 New Net Name=NetMP1_x6
+Change Net Name : Old Net Name=NetMP_y0 New Net Name=NetMP1_y0
+Change Net Name : Old Net Name=NetMP_y1 New Net Name=NetMP1_y1
+Change Net Name : Old Net Name=NetMP_y2 New Net Name=NetMP1_y2
+Change Net Name : Old Net Name=NetMP_y3 New Net Name=NetMP1_y3
+Change Net Name : Old Net Name=NetMP_y4 New Net Name=NetMP1_y4
+Change Net Name : Old Net Name=NetMP_y5 New Net Name=NetMP1_y5
+Change Net Name : Old Net Name=NetMP_y6 New Net Name=NetMP1_y6
+Change Net Name : Old Net Name=NetR33_Bat1_1 New Net Name=NetR34_Bat1_1
+Change Net Name : Old Net Name=NetR33_Bat2_1 New Net Name=NetR34_Bat2_1
+Change Net Name : Old Net Name=NetR33_Bat3_1 New Net Name=NetR34_Bat3_1
+Change Net Name : Old Net Name=NetR33_Bat4_1 New Net Name=NetR34_Bat4_1
+Change Net Name : Old Net Name=NetR33_Bat5_1 New Net Name=NetR34_Bat5_1
+Change Net Name : Old Net Name=NetR33_Bat6_1 New Net Name=NetR34_Bat6_1
+Added Member To Class: ClassName=Bat1 Member=Component R31_Bat1 (R31) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R31_Bat2 (R31) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R31_Bat3 (R31) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R31_Bat4 (R31) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R31_Bat5 (R31) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R31_Bat6 (R31) Res3

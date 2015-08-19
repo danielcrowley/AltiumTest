@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=B-7 Pin=B1_Bat1-P1
+Removed Pin From Net: NetName=B-7 Pin=B1_Bat1-P1
+Removed Pin From Net: NetName=B-7 Pin=B1_Bat1-P1
+Removed Pin From Net: NetName=B-2 Pin=B1_Bat2-P1
+Removed Pin From Net: NetName=B-2 Pin=B1_Bat2-P1
+Removed Pin From Net: NetName=B-2 Pin=B1_Bat2-P1
+Removed Pin From Net: NetName=B-3 Pin=B1_Bat3-P1
+Removed Pin From Net: NetName=B-3 Pin=B1_Bat3-P1
+Removed Pin From Net: NetName=B-3 Pin=B1_Bat3-P1
+Removed Pin From Net: NetName=B-4 Pin=B1_Bat4-P1
+Removed Pin From Net: NetName=B-4 Pin=B1_Bat4-P1
+Removed Pin From Net: NetName=B-4 Pin=B1_Bat4-P1
+Removed Pin From Net: NetName=B-5 Pin=B1_Bat5-P1
+Removed Pin From Net: NetName=B-5 Pin=B1_Bat5-P1
+Removed Pin From Net: NetName=B-5 Pin=B1_Bat5-P1
+Removed Pin From Net: NetName=B-6 Pin=B1_Bat6-P1
+Removed Pin From Net: NetName=B-6 Pin=B1_Bat6-P1
+Removed Pin From Net: NetName=B-6 Pin=B1_Bat6-P1
+Change Component Footprint: Designator=B1_Bat1 Old Footprint= New Footprint=18650_PCB_HOLDER
+Change Component Footprint: Designator=B1_Bat2 Old Footprint= New Footprint=18650_PCB_HOLDER
+Change Component Footprint: Designator=B1_Bat3 Old Footprint= New Footprint=18650_PCB_HOLDER
+Change Component Footprint: Designator=B1_Bat4 Old Footprint= New Footprint=18650_PCB_HOLDER
+Change Component Footprint: Designator=B1_Bat5 Old Footprint= New Footprint=18650_PCB_HOLDER
+Change Component Footprint: Designator=B1_Bat6 Old Footprint= New Footprint=18650_PCB_HOLDER
+Change Component Comment : Designator=B1_Bat1 Old Comment=BATTERYHOLDER New Comment=Antenna
+Change Component Comment : Designator=B1_Bat2 Old Comment=BATTERYHOLDER New Comment=Antenna
+Change Component Comment : Designator=B1_Bat3 Old Comment=BATTERYHOLDER New Comment=Antenna
+Change Component Comment : Designator=B1_Bat4 Old Comment=BATTERYHOLDER New Comment=Antenna
+Change Component Comment : Designator=B1_Bat5 Old Comment=BATTERYHOLDER New Comment=Antenna
+Change Component Comment : Designator=B1_Bat6 Old Comment=BATTERYHOLDER New Comment=Antenna
+Added Pin To Net: NetName=B-7 Pin=B1_Bat1-N
+Added Pin To Net: NetName=B-7 Pin=B1_Bat1-N
+Added Pin To Net: NetName=B-7 Pin=B1_Bat1-N
+Added Pin To Net: NetName=B-2 Pin=B1_Bat2-N
+Added Pin To Net: NetName=B-2 Pin=B1_Bat2-N
+Added Pin To Net: NetName=B-2 Pin=B1_Bat2-N
+Added Pin To Net: NetName=B-3 Pin=B1_Bat3-N
+Added Pin To Net: NetName=B-3 Pin=B1_Bat3-N
+Added Pin To Net: NetName=B-3 Pin=B1_Bat3-N
+Added Pin To Net: NetName=B-4 Pin=B1_Bat4-N
+Added Pin To Net: NetName=B-4 Pin=B1_Bat4-N
+Added Pin To Net: NetName=B-4 Pin=B1_Bat4-N
+Added Pin To Net: NetName=B-5 Pin=B1_Bat5-N
+Added Pin To Net: NetName=B-5 Pin=B1_Bat5-N
+Added Pin To Net: NetName=B-5 Pin=B1_Bat5-N
+Added Pin To Net: NetName=B-6 Pin=B1_Bat6-N
+Added Pin To Net: NetName=B-6 Pin=B1_Bat6-N
+Added Pin To Net: NetName=B-6 Pin=B1_Bat6-N

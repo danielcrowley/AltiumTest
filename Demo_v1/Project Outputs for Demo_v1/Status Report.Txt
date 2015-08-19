@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Demo_v1.PrjPcb]
+   Generated File[BS.BOM]
+   Generated File[BS.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 18:33:25 On 18/08/2015

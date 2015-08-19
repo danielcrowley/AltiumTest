@@ -1,0 +1,120 @@
+Added Pin To Net: NetName=B-1 Pin=LEDDriver.B1-2
+Added Pin To Net: NetName=B+1 Pin=LEDDriver.B1-3
+Added Pin To Net: NetName=B+1 Pin=LEDDriver.B1-9
+Added Pin To Net: NetName=B-2 Pin=LEDDriver.B2-2
+Added Pin To Net: NetName=B+2 Pin=LEDDriver.B2-3
+Added Pin To Net: NetName=B+2 Pin=LEDDriver.B2-9
+Added Pin To Net: NetName=B-3 Pin=LEDDriver.B3-2
+Added Pin To Net: NetName=B+3 Pin=LEDDriver.B3-3
+Added Pin To Net: NetName=B+3 Pin=LEDDriver.B3-9
+Added Pin To Net: NetName=B-4 Pin=LEDDriver.B4-2
+Added Pin To Net: NetName=B+4 Pin=LEDDriver.B4-3
+Added Pin To Net: NetName=B+4 Pin=LEDDriver.B4-9
+Added Pin To Net: NetName=B-5 Pin=LEDDriver.B5-2
+Added Pin To Net: NetName=B+5 Pin=LEDDriver.B5-3
+Added Pin To Net: NetName=B+5 Pin=LEDDriver.B5-9
+Added Pin To Net: NetName=B-6 Pin=LEDDriver.B6-2
+Added Pin To Net: NetName=B+6 Pin=LEDDriver.B6-3
+Added Pin To Net: NetName=B+6 Pin=LEDDriver.B6-9
+Added Pin To Net: NetName=NetLEDDriver.B1_4 Pin=LEDDriver.B1-4
+Added Pin To Net: NetName=NetLEDDriver.B1_4 Pin=R9.B1-1
+Added Pin To Net: NetName=NetLEDDriver.B1_4 Pin=R11.B1-2
+Added Net: Name=NetLEDDriver.B1_4
+Added Pin To Net: NetName=NetLEDDriver.B1_5 Pin=LEDDriver.B1-5
+Added Pin To Net: NetName=NetLEDDriver.B1_5 Pin=R7.B1-1
+Added Pin To Net: NetName=NetLEDDriver.B1_5 Pin=R8.B1-2
+Added Net: Name=NetLEDDriver.B1_5
+Added Pin To Net: NetName=NetLEDDriver.B1_6 Pin=LEDDriver.B1-6
+Added Pin To Net: NetName=NetLEDDriver.B1_6 Pin=LEDDriver.B1-7
+Added Pin To Net: NetName=NetLEDDriver.B1_6 Pin=R9.B1-2
+Added Pin To Net: NetName=NetLEDDriver.B1_6 Pin=R10.B1-2
+Added Net: Name=NetLEDDriver.B1_6
+Added Pin To Net: NetName=NetLEDDriver.B1_8 Pin=LEDDriver.B1-8
+Added Pin To Net: NetName=NetLEDDriver.B1_8 Pin=R10.B1-1
+Added Pin To Net: NetName=NetLEDDriver.B1_8 Pin=R12.B1-2
+Added Net: Name=NetLEDDriver.B1_8
+Added Pin To Net: NetName=NetLEDDriver.B2_4 Pin=LEDDriver.B2-4
+Added Pin To Net: NetName=NetLEDDriver.B2_4 Pin=R9.B2-1
+Added Pin To Net: NetName=NetLEDDriver.B2_4 Pin=R11.B2-2
+Added Net: Name=NetLEDDriver.B2_4
+Added Pin To Net: NetName=NetLEDDriver.B2_5 Pin=LEDDriver.B2-5
+Added Pin To Net: NetName=NetLEDDriver.B2_5 Pin=R7.B2-1
+Added Pin To Net: NetName=NetLEDDriver.B2_5 Pin=R8.B2-2
+Added Net: Name=NetLEDDriver.B2_5
+Added Pin To Net: NetName=NetLEDDriver.B2_6 Pin=LEDDriver.B2-6
+Added Pin To Net: NetName=NetLEDDriver.B2_6 Pin=LEDDriver.B2-7
+Added Pin To Net: NetName=NetLEDDriver.B2_6 Pin=R9.B2-2
+Added Pin To Net: NetName=NetLEDDriver.B2_6 Pin=R10.B2-2
+Added Net: Name=NetLEDDriver.B2_6
+Added Pin To Net: NetName=NetLEDDriver.B2_8 Pin=LEDDriver.B2-8
+Added Pin To Net: NetName=NetLEDDriver.B2_8 Pin=R10.B2-1
+Added Pin To Net: NetName=NetLEDDriver.B2_8 Pin=R12.B2-2
+Added Net: Name=NetLEDDriver.B2_8
+Added Pin To Net: NetName=NetLEDDriver.B3_4 Pin=LEDDriver.B3-4
+Added Pin To Net: NetName=NetLEDDriver.B3_4 Pin=R9.B3-1
+Added Pin To Net: NetName=NetLEDDriver.B3_4 Pin=R11.B3-2
+Added Net: Name=NetLEDDriver.B3_4
+Added Pin To Net: NetName=NetLEDDriver.B3_5 Pin=LEDDriver.B3-5
+Added Pin To Net: NetName=NetLEDDriver.B3_5 Pin=R7.B3-1
+Added Pin To Net: NetName=NetLEDDriver.B3_5 Pin=R8.B3-2
+Added Net: Name=NetLEDDriver.B3_5
+Added Pin To Net: NetName=NetLEDDriver.B3_6 Pin=LEDDriver.B3-6
+Added Pin To Net: NetName=NetLEDDriver.B3_6 Pin=LEDDriver.B3-7
+Added Pin To Net: NetName=NetLEDDriver.B3_6 Pin=R9.B3-2
+Added Pin To Net: NetName=NetLEDDriver.B3_6 Pin=R10.B3-2
+Added Net: Name=NetLEDDriver.B3_6
+Added Pin To Net: NetName=NetLEDDriver.B3_8 Pin=LEDDriver.B3-8
+Added Pin To Net: NetName=NetLEDDriver.B3_8 Pin=R10.B3-1
+Added Pin To Net: NetName=NetLEDDriver.B3_8 Pin=R12.B3-2
+Added Net: Name=NetLEDDriver.B3_8
+Added Pin To Net: NetName=NetLEDDriver.B4_4 Pin=LEDDriver.B4-4
+Added Pin To Net: NetName=NetLEDDriver.B4_4 Pin=R9.B4-1
+Added Pin To Net: NetName=NetLEDDriver.B4_4 Pin=R11.B4-2
+Added Net: Name=NetLEDDriver.B4_4
+Added Pin To Net: NetName=NetLEDDriver.B4_5 Pin=LEDDriver.B4-5
+Added Pin To Net: NetName=NetLEDDriver.B4_5 Pin=R7.B4-1
+Added Pin To Net: NetName=NetLEDDriver.B4_5 Pin=R8.B4-2
+Added Net: Name=NetLEDDriver.B4_5
+Added Pin To Net: NetName=NetLEDDriver.B4_6 Pin=LEDDriver.B4-6
+Added Pin To Net: NetName=NetLEDDriver.B4_6 Pin=LEDDriver.B4-7
+Added Pin To Net: NetName=NetLEDDriver.B4_6 Pin=R9.B4-2
+Added Pin To Net: NetName=NetLEDDriver.B4_6 Pin=R10.B4-2
+Added Net: Name=NetLEDDriver.B4_6
+Added Pin To Net: NetName=NetLEDDriver.B4_8 Pin=LEDDriver.B4-8
+Added Pin To Net: NetName=NetLEDDriver.B4_8 Pin=R10.B4-1
+Added Pin To Net: NetName=NetLEDDriver.B4_8 Pin=R12.B4-2
+Added Net: Name=NetLEDDriver.B4_8
+Added Pin To Net: NetName=NetLEDDriver.B5_4 Pin=LEDDriver.B5-4
+Added Pin To Net: NetName=NetLEDDriver.B5_4 Pin=R9.B5-1
+Added Pin To Net: NetName=NetLEDDriver.B5_4 Pin=R11.B5-2
+Added Net: Name=NetLEDDriver.B5_4
+Added Pin To Net: NetName=NetLEDDriver.B5_5 Pin=LEDDriver.B5-5
+Added Pin To Net: NetName=NetLEDDriver.B5_5 Pin=R7.B5-1
+Added Pin To Net: NetName=NetLEDDriver.B5_5 Pin=R8.B5-2
+Added Net: Name=NetLEDDriver.B5_5
+Added Pin To Net: NetName=NetLEDDriver.B5_6 Pin=LEDDriver.B5-6
+Added Pin To Net: NetName=NetLEDDriver.B5_6 Pin=LEDDriver.B5-7
+Added Pin To Net: NetName=NetLEDDriver.B5_6 Pin=R9.B5-2
+Added Pin To Net: NetName=NetLEDDriver.B5_6 Pin=R10.B5-2
+Added Net: Name=NetLEDDriver.B5_6
+Added Pin To Net: NetName=NetLEDDriver.B5_8 Pin=LEDDriver.B5-8
+Added Pin To Net: NetName=NetLEDDriver.B5_8 Pin=R10.B5-1
+Added Pin To Net: NetName=NetLEDDriver.B5_8 Pin=R12.B5-2
+Added Net: Name=NetLEDDriver.B5_8
+Added Pin To Net: NetName=NetLEDDriver.B6_4 Pin=LEDDriver.B6-4
+Added Pin To Net: NetName=NetLEDDriver.B6_4 Pin=R9.B6-1
+Added Pin To Net: NetName=NetLEDDriver.B6_4 Pin=R11.B6-2
+Added Net: Name=NetLEDDriver.B6_4
+Added Pin To Net: NetName=NetLEDDriver.B6_5 Pin=LEDDriver.B6-5
+Added Pin To Net: NetName=NetLEDDriver.B6_5 Pin=R7.B6-1
+Added Pin To Net: NetName=NetLEDDriver.B6_5 Pin=R8.B6-2
+Added Net: Name=NetLEDDriver.B6_5
+Added Pin To Net: NetName=NetLEDDriver.B6_6 Pin=LEDDriver.B6-6
+Added Pin To Net: NetName=NetLEDDriver.B6_6 Pin=LEDDriver.B6-7
+Added Pin To Net: NetName=NetLEDDriver.B6_6 Pin=R9.B6-2
+Added Pin To Net: NetName=NetLEDDriver.B6_6 Pin=R10.B6-2
+Added Net: Name=NetLEDDriver.B6_6
+Added Pin To Net: NetName=NetLEDDriver.B6_8 Pin=LEDDriver.B6-8
+Added Pin To Net: NetName=NetLEDDriver.B6_8 Pin=R10.B6-1
+Added Pin To Net: NetName=NetLEDDriver.B6_8 Pin=R12.B6-2
+Added Net: Name=NetLEDDriver.B6_8

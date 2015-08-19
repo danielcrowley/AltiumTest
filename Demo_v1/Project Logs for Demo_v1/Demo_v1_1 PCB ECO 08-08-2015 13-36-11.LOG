@@ -1,0 +1,627 @@
+Added Component: Designator=*1(DIP34)
+Added Component: Designator=B1_$ChannelName(18650_PCB_HOLDER)
+Added Component: Designator=B1_$ChannelName(18650_PCB_HOLDER)
+Added Component: Designator=B1_$ChannelName(18650_PCB_HOLDER)
+Added Component: Designator=B1_$ChannelName(18650_PCB_HOLDER)
+Added Component: Designator=B1_$ChannelName(18650_PCB_HOLDER)
+Added Component: Designator=B1_$ChannelName(18650_PCB_HOLDER)
+Added Component: Designator=D1_$ChannelName(LED Strip)
+Added Component: Designator=D1_$ChannelName(LED Strip)
+Added Component: Designator=D1_$ChannelName(LED Strip)
+Added Component: Designator=D1_$ChannelName(LED Strip)
+Added Component: Designator=D1_$ChannelName(LED Strip)
+Added Component: Designator=D1_$ChannelName(LED Strip)
+Added Component: Designator=LEDDriver_$ChannelName(DIP18)
+Added Component: Designator=LEDDriver_$ChannelName(DIP18)
+Added Component: Designator=LEDDriver_$ChannelName(DIP18)
+Added Component: Designator=LEDDriver_$ChannelName(DIP18)
+Added Component: Designator=LEDDriver_$ChannelName(DIP18)
+Added Component: Designator=LEDDriver_$ChannelName(DIP18)
+Added Component: Designator=MP1(SOIC24)
+Added Component: Designator=NMOS_$ChannelName(MOSFET)
+Added Component: Designator=NMOS_$ChannelName(MOSFET)
+Added Component: Designator=NMOS_$ChannelName(MOSFET)
+Added Component: Designator=NMOS_$ChannelName(MOSFET)
+Added Component: Designator=NMOS_$ChannelName(MOSFET)
+Added Component: Designator=NMOS_$ChannelName(MOSFET)
+Added Component: Designator=OC_1_$ChannelName(SMDIP4)
+Added Component: Designator=OC_1_$ChannelName(SMDIP4)
+Added Component: Designator=OC_1_$ChannelName(SMDIP4)
+Added Component: Designator=OC_1_$ChannelName(SMDIP4)
+Added Component: Designator=OC_1_$ChannelName(SMDIP4)
+Added Component: Designator=OC_1_$ChannelName(SMDIP4)
+Added Component: Designator=OC_2_$ChannelName(SMDIP4)
+Added Component: Designator=OC_2_$ChannelName(SMDIP4)
+Added Component: Designator=OC_2_$ChannelName(SMDIP4)
+Added Component: Designator=OC_2_$ChannelName(SMDIP4)
+Added Component: Designator=OC_2_$ChannelName(SMDIP4)
+Added Component: Designator=OC_2_$ChannelName(SMDIP4)
+Added Component: Designator=PMos_$ChannelName(MOSFET)
+Added Component: Designator=PMos_$ChannelName(MOSFET)
+Added Component: Designator=PMos_$ChannelName(MOSFET)
+Added Component: Designator=PMos_$ChannelName(MOSFET)
+Added Component: Designator=PMos_$ChannelName(MOSFET)
+Added Component: Designator=PMos_$ChannelName(MOSFET)
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Component: Designator=R4(J1-0603)
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R6(J1-0603)
+Added Component: Designator=R7(J1-0603)
+Added Component: Designator=R8(J1-0603)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R14(J1-0603)
+Added Component: Designator=R15(J1-0603)
+Added Component: Designator=R16(J1-0603)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R18(J1-0603)
+Added Component: Designator=R19(J1-0603)
+Added Component: Designator=R20(J1-0603)
+Added Component: Designator=R21(J1-0603)
+Added Component: Designator=R22(J1-0603)
+Added Component: Designator=R23(J1-0603)
+Added Component: Designator=R24(J1-0603)
+Added Component: Designator=R25(J1-0603)
+Added Component: Designator=R26(J1-0603)
+Added Component: Designator=R27(J1-0603)
+Added Component: Designator=R28(J1-0603)
+Added Component: Designator=R29_$ChannelName(J1-0603)
+Added Component: Designator=R29_$ChannelName(J1-0603)
+Added Component: Designator=R29_$ChannelName(J1-0603)
+Added Component: Designator=R29_$ChannelName(J1-0603)
+Added Component: Designator=R29_$ChannelName(J1-0603)
+Added Component: Designator=R29_$ChannelName(J1-0603)
+Added Component: Designator=R30_$ChannelName(J1-0603)
+Added Component: Designator=R30_$ChannelName(J1-0603)
+Added Component: Designator=R30_$ChannelName(J1-0603)
+Added Component: Designator=R30_$ChannelName(J1-0603)
+Added Component: Designator=R30_$ChannelName(J1-0603)
+Added Component: Designator=R30_$ChannelName(J1-0603)
+Added Component: Designator=R31_$ChannelName(J1-0603)
+Added Component: Designator=R31_$ChannelName(J1-0603)
+Added Component: Designator=R31_$ChannelName(J1-0603)
+Added Component: Designator=R31_$ChannelName(J1-0603)
+Added Component: Designator=R31_$ChannelName(J1-0603)
+Added Component: Designator=R31_$ChannelName(J1-0603)
+Added Component: Designator=R32_$ChannelName(J1-0603)
+Added Component: Designator=R32_$ChannelName(J1-0603)
+Added Component: Designator=R32_$ChannelName(J1-0603)
+Added Component: Designator=R32_$ChannelName(J1-0603)
+Added Component: Designator=R32_$ChannelName(J1-0603)
+Added Component: Designator=R32_$ChannelName(J1-0603)
+Added Component: Designator=R33_$ChannelName(J1-0603)
+Added Component: Designator=R33_$ChannelName(J1-0603)
+Added Component: Designator=R33_$ChannelName(J1-0603)
+Added Component: Designator=R33_$ChannelName(J1-0603)
+Added Component: Designator=R33_$ChannelName(J1-0603)
+Added Component: Designator=R33_$ChannelName(J1-0603)
+Added Component: Designator=R34_$ChannelName(J1-0603)
+Added Component: Designator=R34_$ChannelName(J1-0603)
+Added Component: Designator=R34_$ChannelName(J1-0603)
+Added Component: Designator=R34_$ChannelName(J1-0603)
+Added Component: Designator=R34_$ChannelName(J1-0603)
+Added Component: Designator=R34_$ChannelName(J1-0603)
+Added Component: Designator=R35_$ChannelName(J1-0603)
+Added Component: Designator=R35_$ChannelName(J1-0603)
+Added Component: Designator=R35_$ChannelName(J1-0603)
+Added Component: Designator=R35_$ChannelName(J1-0603)
+Added Component: Designator=R35_$ChannelName(J1-0603)
+Added Component: Designator=R35_$ChannelName(J1-0603)
+Added Component: Designator=R36_$ChannelName(J1-0603)
+Added Component: Designator=R36_$ChannelName(J1-0603)
+Added Component: Designator=R36_$ChannelName(J1-0603)
+Added Component: Designator=R36_$ChannelName(J1-0603)
+Added Component: Designator=R36_$ChannelName(J1-0603)
+Added Component: Designator=R36_$ChannelName(J1-0603)
+Added Component: Designator=R37_$ChannelName(J1-0603)
+Added Component: Designator=R37_$ChannelName(J1-0603)
+Added Component: Designator=R37_$ChannelName(J1-0603)
+Added Component: Designator=R37_$ChannelName(J1-0603)
+Added Component: Designator=R37_$ChannelName(J1-0603)
+Added Component: Designator=R37_$ChannelName(J1-0603)
+Added Component: Designator=R38_$ChannelName(J1-0603)
+Added Component: Designator=R38_$ChannelName(J1-0603)
+Added Component: Designator=R38_$ChannelName(J1-0603)
+Added Component: Designator=R38_$ChannelName(J1-0603)
+Added Component: Designator=R38_$ChannelName(J1-0603)
+Added Component: Designator=R38_$ChannelName(J1-0603)
+Added Component: Designator=R39_$ChannelName(J1-0603)
+Added Component: Designator=R39_$ChannelName(J1-0603)
+Added Component: Designator=R39_$ChannelName(J1-0603)
+Added Component: Designator=R39_$ChannelName(J1-0603)
+Added Component: Designator=R39_$ChannelName(J1-0603)
+Added Component: Designator=R39_$ChannelName(J1-0603)
+Added Component: Designator=R40_$ChannelName(J1-0603)
+Added Component: Designator=R40_$ChannelName(J1-0603)
+Added Component: Designator=R40_$ChannelName(J1-0603)
+Added Component: Designator=R40_$ChannelName(J1-0603)
+Added Component: Designator=R40_$ChannelName(J1-0603)
+Added Component: Designator=R40_$ChannelName(J1-0603)
+Added Pin To Net: NetName=+5 Pin=*1-20
+Added Pin To Net: NetName=+5 Pin=MP1-24
+Added Pin To Net: NetName=+5 Pin=OC_1_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_1_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_1_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_1_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_1_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_1_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_2_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_2_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_2_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_2_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_2_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=OC_2_$ChannelName-1
+Added Net: Name=+5
+Added Pin To Net: NetName=ADC+ Pin=*1-28
+Added Pin To Net: NetName=ADC+ Pin=MP1-1
+Added Net: Name=ADC+
+Added Pin To Net: NetName=ADC- Pin=*1-27
+Added Pin To Net: NetName=ADC- Pin=MP1-17
+Added Net: Name=ADC-
+Added Pin To Net: NetName=B+1 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+1 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+1 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-3
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-5
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-7
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-9
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-11
+Added Pin To Net: NetName=B+1 Pin=D1_$ChannelName-13
+Added Pin To Net: NetName=B+1 Pin=LEDDriver_$ChannelName-3
+Added Pin To Net: NetName=B+1 Pin=LEDDriver_$ChannelName-9
+Added Pin To Net: NetName=B+1 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+1 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+1 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+1 Pin=R13-1
+Added Pin To Net: NetName=B+1 Pin=R29_$ChannelName-2
+Added Pin To Net: NetName=B+1 Pin=R30_$ChannelName-2
+Added Pin To Net: NetName=B+1 Pin=R34_$ChannelName-2
+Added Net: Name=B+1
+Added Pin To Net: NetName=B+2 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+2 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+2 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-3
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-5
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-7
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-9
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-11
+Added Pin To Net: NetName=B+2 Pin=D1_$ChannelName-13
+Added Pin To Net: NetName=B+2 Pin=LEDDriver_$ChannelName-3
+Added Pin To Net: NetName=B+2 Pin=LEDDriver_$ChannelName-9
+Added Pin To Net: NetName=B+2 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+2 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+2 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+2 Pin=R12-1
+Added Pin To Net: NetName=B+2 Pin=R29_$ChannelName-2
+Added Pin To Net: NetName=B+2 Pin=R30_$ChannelName-2
+Added Pin To Net: NetName=B+2 Pin=R34_$ChannelName-2
+Added Net: Name=B+2
+Added Pin To Net: NetName=B+3 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+3 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+3 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-3
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-5
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-7
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-9
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-11
+Added Pin To Net: NetName=B+3 Pin=D1_$ChannelName-13
+Added Pin To Net: NetName=B+3 Pin=LEDDriver_$ChannelName-3
+Added Pin To Net: NetName=B+3 Pin=LEDDriver_$ChannelName-9
+Added Pin To Net: NetName=B+3 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+3 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+3 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+3 Pin=R10-1
+Added Pin To Net: NetName=B+3 Pin=R29_$ChannelName-2
+Added Pin To Net: NetName=B+3 Pin=R30_$ChannelName-2
+Added Pin To Net: NetName=B+3 Pin=R34_$ChannelName-2
+Added Net: Name=B+3
+Added Pin To Net: NetName=B+4 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+4 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+4 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-3
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-5
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-7
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-9
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-11
+Added Pin To Net: NetName=B+4 Pin=D1_$ChannelName-13
+Added Pin To Net: NetName=B+4 Pin=LEDDriver_$ChannelName-3
+Added Pin To Net: NetName=B+4 Pin=LEDDriver_$ChannelName-9
+Added Pin To Net: NetName=B+4 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+4 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+4 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+4 Pin=R8-1
+Added Pin To Net: NetName=B+4 Pin=R29_$ChannelName-2
+Added Pin To Net: NetName=B+4 Pin=R30_$ChannelName-2
+Added Pin To Net: NetName=B+4 Pin=R34_$ChannelName-2
+Added Net: Name=B+4
+Added Pin To Net: NetName=B+5 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+5 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+5 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-3
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-5
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-7
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-9
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-11
+Added Pin To Net: NetName=B+5 Pin=D1_$ChannelName-13
+Added Pin To Net: NetName=B+5 Pin=LEDDriver_$ChannelName-3
+Added Pin To Net: NetName=B+5 Pin=LEDDriver_$ChannelName-9
+Added Pin To Net: NetName=B+5 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+5 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+5 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+5 Pin=R6-1
+Added Pin To Net: NetName=B+5 Pin=R29_$ChannelName-2
+Added Pin To Net: NetName=B+5 Pin=R30_$ChannelName-2
+Added Pin To Net: NetName=B+5 Pin=R34_$ChannelName-2
+Added Net: Name=B+5
+Added Pin To Net: NetName=B+6 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+6 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+6 Pin=B1_$ChannelName-P
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-3
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-5
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-7
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-9
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-11
+Added Pin To Net: NetName=B+6 Pin=D1_$ChannelName-13
+Added Pin To Net: NetName=B+6 Pin=LEDDriver_$ChannelName-3
+Added Pin To Net: NetName=B+6 Pin=LEDDriver_$ChannelName-9
+Added Pin To Net: NetName=B+6 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+6 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+6 Pin=PMos_$ChannelName-1
+Added Pin To Net: NetName=B+6 Pin=R4-1
+Added Pin To Net: NetName=B+6 Pin=R29_$ChannelName-2
+Added Pin To Net: NetName=B+6 Pin=R30_$ChannelName-2
+Added Pin To Net: NetName=B+6 Pin=R34_$ChannelName-2
+Added Net: Name=B+6
+Added Pin To Net: NetName=B+7 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B+7 Pin=R2-1
+Added Pin To Net: NetName=B+7 Pin=R31_$ChannelName-2
+Added Net: Name=B+7
+Added Pin To Net: NetName=B-2 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-2 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-2 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-2 Pin=LEDDriver_$ChannelName-2
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-2 Pin=R3-1
+Added Pin To Net: NetName=B-2 Pin=R31_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=R31_$ChannelName-2
+Added Pin To Net: NetName=B-2 Pin=R32_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=R33_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=R36_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=R39_$ChannelName-1
+Added Pin To Net: NetName=B-2 Pin=R40_$ChannelName-1
+Added Net: Name=B-2
+Added Pin To Net: NetName=B-3 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-3 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-3 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-3 Pin=LEDDriver_$ChannelName-2
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-3 Pin=R5-1
+Added Pin To Net: NetName=B-3 Pin=R31_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=R31_$ChannelName-2
+Added Pin To Net: NetName=B-3 Pin=R32_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=R33_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=R36_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=R39_$ChannelName-1
+Added Pin To Net: NetName=B-3 Pin=R40_$ChannelName-1
+Added Net: Name=B-3
+Added Pin To Net: NetName=B-4 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-4 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-4 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-4 Pin=LEDDriver_$ChannelName-2
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-4 Pin=R7-1
+Added Pin To Net: NetName=B-4 Pin=R31_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=R31_$ChannelName-2
+Added Pin To Net: NetName=B-4 Pin=R32_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=R33_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=R36_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=R39_$ChannelName-1
+Added Pin To Net: NetName=B-4 Pin=R40_$ChannelName-1
+Added Net: Name=B-4
+Added Pin To Net: NetName=B-5 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-5 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-5 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-5 Pin=LEDDriver_$ChannelName-2
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-5 Pin=R9-1
+Added Pin To Net: NetName=B-5 Pin=R31_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=R31_$ChannelName-2
+Added Pin To Net: NetName=B-5 Pin=R32_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=R33_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=R36_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=R39_$ChannelName-1
+Added Pin To Net: NetName=B-5 Pin=R40_$ChannelName-1
+Added Net: Name=B-5
+Added Pin To Net: NetName=B-6 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-6 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-6 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-6 Pin=LEDDriver_$ChannelName-2
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=PMos_$ChannelName-5
+Added Pin To Net: NetName=B-6 Pin=R11-1
+Added Pin To Net: NetName=B-6 Pin=R31_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=R31_$ChannelName-2
+Added Pin To Net: NetName=B-6 Pin=R32_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=R33_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=R36_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=R39_$ChannelName-1
+Added Pin To Net: NetName=B-6 Pin=R40_$ChannelName-1
+Added Net: Name=B-6
+Added Pin To Net: NetName=B-7 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-7 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-7 Pin=B1_$ChannelName-N
+Added Pin To Net: NetName=B-7 Pin=LEDDriver_$ChannelName-2
+Added Pin To Net: NetName=B-7 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=NMOS_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=R1-1
+Added Pin To Net: NetName=B-7 Pin=R14-1
+Added Pin To Net: NetName=B-7 Pin=R31_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=R32_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=R33_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=R36_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=R39_$ChannelName-1
+Added Pin To Net: NetName=B-7 Pin=R40_$ChannelName-1
+Added Net: Name=B-7
+Added Pin To Net: NetName=GND Pin=*1-21
+Added Pin To Net: NetName=GND Pin=MP1-13
+Added Pin To Net: NetName=GND Pin=MP1-12
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MP_A1 Pin=*1-31
+Added Pin To Net: NetName=MP_A1 Pin=MP1-10
+Added Net: Name=MP_A1
+Added Pin To Net: NetName=MP_A2 Pin=*1-30
+Added Pin To Net: NetName=MP_A2 Pin=MP1-11
+Added Net: Name=MP_A2
+Added Pin To Net: NetName=MP_A3 Pin=*1-29
+Added Pin To Net: NetName=MP_A3 Pin=MP1-14
+Added Net: Name=MP_A3
+Added Pin To Net: NetName=NCTRL1 Pin=*1-2
+Added Pin To Net: NetName=NCTRL1 Pin=OC_1_$ChannelName-2
+Added Net: Name=NCTRL1
+Added Pin To Net: NetName=NCTRL2 Pin=*1-3
+Added Pin To Net: NetName=NCTRL2 Pin=OC_1_$ChannelName-2
+Added Net: Name=NCTRL2
+Added Pin To Net: NetName=NCTRL3 Pin=*1-4
+Added Pin To Net: NetName=NCTRL3 Pin=OC_1_$ChannelName-2
+Added Net: Name=NCTRL3
+Added Pin To Net: NetName=NCTRL4 Pin=*1-9
+Added Pin To Net: NetName=NCTRL4 Pin=OC_1_$ChannelName-2
+Added Net: Name=NCTRL4
+Added Pin To Net: NetName=NCTRL5 Pin=*1-10
+Added Pin To Net: NetName=NCTRL5 Pin=OC_1_$ChannelName-2
+Added Net: Name=NCTRL5
+Added Pin To Net: NetName=NCTRL6 Pin=*1-11
+Added Pin To Net: NetName=NCTRL6 Pin=OC_1_$ChannelName-2
+Added Net: Name=NCTRL6
+Added Pin To Net: NetName=NetD1_$ChannelName_2 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=NetD1_$ChannelName_2 Pin=LEDDriver_$ChannelName-16
+Added Net: Name=NetD1_$ChannelName_2
+Added Pin To Net: NetName=NetD1_$ChannelName_4 Pin=D1_$ChannelName-4
+Added Pin To Net: NetName=NetD1_$ChannelName_4 Pin=LEDDriver_$ChannelName-15
+Added Net: Name=NetD1_$ChannelName_4
+Added Pin To Net: NetName=NetD1_$ChannelName_6 Pin=D1_$ChannelName-6
+Added Pin To Net: NetName=NetD1_$ChannelName_6 Pin=LEDDriver_$ChannelName-14
+Added Net: Name=NetD1_$ChannelName_6
+Added Pin To Net: NetName=NetD1_$ChannelName_8 Pin=D1_$ChannelName-8
+Added Pin To Net: NetName=NetD1_$ChannelName_8 Pin=LEDDriver_$ChannelName-13
+Added Net: Name=NetD1_$ChannelName_8
+Added Pin To Net: NetName=NetD1_$ChannelName_10 Pin=D1_$ChannelName-10
+Added Pin To Net: NetName=NetD1_$ChannelName_10 Pin=LEDDriver_$ChannelName-12
+Added Net: Name=NetD1_$ChannelName_10
+Added Pin To Net: NetName=NetD1_$ChannelName_12 Pin=D1_$ChannelName-12
+Added Pin To Net: NetName=NetD1_$ChannelName_12 Pin=LEDDriver_$ChannelName-11
+Added Net: Name=NetD1_$ChannelName_12
+Added Pin To Net: NetName=NetD1_$ChannelName_14 Pin=D1_$ChannelName-14
+Added Pin To Net: NetName=NetD1_$ChannelName_14 Pin=LEDDriver_$ChannelName-10
+Added Net: Name=NetD1_$ChannelName_14
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_4 Pin=LEDDriver_$ChannelName-4
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_4 Pin=R37_$ChannelName-1
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_4 Pin=R39_$ChannelName-2
+Added Net: Name=NetLEDDriver_$ChannelName_4
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_5 Pin=LEDDriver_$ChannelName-5
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_5 Pin=R35_$ChannelName-1
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_5 Pin=R36_$ChannelName-2
+Added Net: Name=NetLEDDriver_$ChannelName_5
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_6 Pin=LEDDriver_$ChannelName-6
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_6 Pin=LEDDriver_$ChannelName-7
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_6 Pin=R37_$ChannelName-2
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_6 Pin=R38_$ChannelName-2
+Added Net: Name=NetLEDDriver_$ChannelName_6
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_8 Pin=LEDDriver_$ChannelName-8
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_8 Pin=R38_$ChannelName-1
+Added Pin To Net: NetName=NetLEDDriver_$ChannelName_8 Pin=R40_$ChannelName-2
+Added Net: Name=NetLEDDriver_$ChannelName_8
+Added Pin To Net: NetName=NetMP1_x0 Pin=MP1-9
+Added Pin To Net: NetName=NetMP1_x0 Pin=R13-2
+Added Pin To Net: NetName=NetMP1_x0 Pin=R15-2
+Added Net: Name=NetMP1_x0
+Added Pin To Net: NetName=NetMP1_x1 Pin=MP1-8
+Added Pin To Net: NetName=NetMP1_x1 Pin=R12-2
+Added Pin To Net: NetName=NetMP1_x1 Pin=R16-2
+Added Net: Name=NetMP1_x1
+Added Pin To Net: NetName=NetMP1_x2 Pin=MP1-7
+Added Pin To Net: NetName=NetMP1_x2 Pin=R10-2
+Added Pin To Net: NetName=NetMP1_x2 Pin=R17-2
+Added Net: Name=NetMP1_x2
+Added Pin To Net: NetName=NetMP1_x3 Pin=MP1-6
+Added Pin To Net: NetName=NetMP1_x3 Pin=R8-2
+Added Pin To Net: NetName=NetMP1_x3 Pin=R18-2
+Added Net: Name=NetMP1_x3
+Added Pin To Net: NetName=NetMP1_x4 Pin=MP1-5
+Added Pin To Net: NetName=NetMP1_x4 Pin=R6-2
+Added Pin To Net: NetName=NetMP1_x4 Pin=R19-2
+Added Net: Name=NetMP1_x4
+Added Pin To Net: NetName=NetMP1_x5 Pin=MP1-4
+Added Pin To Net: NetName=NetMP1_x5 Pin=R4-2
+Added Pin To Net: NetName=NetMP1_x5 Pin=R20-2
+Added Net: Name=NetMP1_x5
+Added Pin To Net: NetName=NetMP1_x6 Pin=MP1-3
+Added Pin To Net: NetName=NetMP1_x6 Pin=R2-2
+Added Pin To Net: NetName=NetMP1_x6 Pin=R21-2
+Added Net: Name=NetMP1_x6
+Added Pin To Net: NetName=NetMP1_y0 Pin=MP1-23
+Added Pin To Net: NetName=NetMP1_y0 Pin=R1-2
+Added Pin To Net: NetName=NetMP1_y0 Pin=R22-2
+Added Net: Name=NetMP1_y0
+Added Pin To Net: NetName=NetMP1_y1 Pin=MP1-22
+Added Pin To Net: NetName=NetMP1_y1 Pin=R3-2
+Added Pin To Net: NetName=NetMP1_y1 Pin=R23-2
+Added Net: Name=NetMP1_y1
+Added Pin To Net: NetName=NetMP1_y2 Pin=MP1-21
+Added Pin To Net: NetName=NetMP1_y2 Pin=R5-2
+Added Pin To Net: NetName=NetMP1_y2 Pin=R24-2
+Added Net: Name=NetMP1_y2
+Added Pin To Net: NetName=NetMP1_y3 Pin=MP1-20
+Added Pin To Net: NetName=NetMP1_y3 Pin=R7-2
+Added Pin To Net: NetName=NetMP1_y3 Pin=R25-2
+Added Net: Name=NetMP1_y3
+Added Pin To Net: NetName=NetMP1_y4 Pin=MP1-19
+Added Pin To Net: NetName=NetMP1_y4 Pin=R9-2
+Added Pin To Net: NetName=NetMP1_y4 Pin=R26-2
+Added Net: Name=NetMP1_y4
+Added Pin To Net: NetName=NetMP1_y5 Pin=MP1-18
+Added Pin To Net: NetName=NetMP1_y5 Pin=R11-2
+Added Pin To Net: NetName=NetMP1_y5 Pin=R27-2
+Added Net: Name=NetMP1_y5
+Added Pin To Net: NetName=NetMP1_y6 Pin=MP1-16
+Added Pin To Net: NetName=NetMP1_y6 Pin=R14-2
+Added Pin To Net: NetName=NetMP1_y6 Pin=R28-2
+Added Net: Name=NetMP1_y6
+Added Pin To Net: NetName=NetNMOS_$ChannelName_1 Pin=NMOS_$ChannelName-4
+Added Pin To Net: NetName=NetNMOS_$ChannelName_1 Pin=OC_1_$ChannelName-4
+Added Pin To Net: NetName=NetNMOS_$ChannelName_1 Pin=R30_$ChannelName-1
+Added Net: Name=NetNMOS_$ChannelName_1
+Added Pin To Net: NetName=NetOC_1_$ChannelName_3 Pin=OC_1_$ChannelName-3
+Added Pin To Net: NetName=NetOC_1_$ChannelName_3 Pin=R33_$ChannelName-2
+Added Net: Name=NetOC_1_$ChannelName_3
+Added Pin To Net: NetName=NetOC_2_$ChannelName_3 Pin=OC_2_$ChannelName-3
+Added Pin To Net: NetName=NetOC_2_$ChannelName_3 Pin=R32_$ChannelName-2
+Added Net: Name=NetOC_2_$ChannelName_3
+Added Pin To Net: NetName=NetOC_2_$ChannelName_4 Pin=OC_2_$ChannelName-4
+Added Pin To Net: NetName=NetOC_2_$ChannelName_4 Pin=PMos_$ChannelName-4
+Added Pin To Net: NetName=NetOC_2_$ChannelName_4 Pin=R29_$ChannelName-1
+Added Net: Name=NetOC_2_$ChannelName_4
+Added Pin To Net: NetName=NetR34_$ChannelName_1 Pin=R34_$ChannelName-1
+Added Pin To Net: NetName=NetR34_$ChannelName_1 Pin=R35_$ChannelName-2
+Added Net: Name=NetR34_$ChannelName_1
+Added Pin To Net: NetName=PCTRL1 Pin=*1-12
+Added Pin To Net: NetName=PCTRL1 Pin=OC_2_$ChannelName-2
+Added Net: Name=PCTRL1
+Added Pin To Net: NetName=PCTRL2 Pin=*1-13
+Added Pin To Net: NetName=PCTRL2 Pin=OC_2_$ChannelName-2
+Added Net: Name=PCTRL2
+Added Pin To Net: NetName=PCTRL3 Pin=*1-14
+Added Pin To Net: NetName=PCTRL3 Pin=OC_2_$ChannelName-2
+Added Net: Name=PCTRL3
+Added Pin To Net: NetName=PCTRL4 Pin=*1-15
+Added Pin To Net: NetName=PCTRL4 Pin=OC_2_$ChannelName-2
+Added Net: Name=PCTRL4
+Added Pin To Net: NetName=PCTRL5 Pin=*1-16
+Added Pin To Net: NetName=PCTRL5 Pin=OC_2_$ChannelName-2
+Added Net: Name=PCTRL5
+Added Pin To Net: NetName=PCTRL6 Pin=*1-17
+Added Pin To Net: NetName=PCTRL6 Pin=OC_2_$ChannelName-2
+Added Net: Name=PCTRL6
+Added Class: Name=Bat1
+Added Class: Name=Bat2
+Added Class: Name=Bat3
+Added Class: Name=Bat4
+Added Class: Name=Bat5
+Added Class: Name=Bat6
+Added Class: Name=Mutliplex
+Added Class: Name=u1
+Added Class: Name=B+[7..1]
+Added Class: Name=B-[7..1]
+Added Class: Name=NCTRL[6..1]
+Added Class: Name=PCTRL[6..1]
+Added Class: Name=BatterySwitch
+Added Room: Name=Bat1
+Added Room: Name=Bat2
+Added Room: Name=Bat3
+Added Room: Name=Bat4
+Added Room: Name=Bat5
+Added Room: Name=Bat6
+Added Room: Name=Mutliplex
+Added Room: Name=u1

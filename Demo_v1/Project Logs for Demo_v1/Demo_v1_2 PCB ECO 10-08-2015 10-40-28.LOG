@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=B1 Member=C1.B3
+Removed Member From Class: ClassName=B1 Member=C2.B4
+Added Member To Class: ClassName=B1 Member=Component C1.B1 (C1) Cap
+Added Member To Class: ClassName=B1 Member=Component C2.B1 (C2) Cap

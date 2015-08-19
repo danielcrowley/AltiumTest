@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R6.B1-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R6.B2-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R6.B3-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R6.B4-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R6.B5-2
+Change Component Designator: OldDesignator=R6.B1 NewDesignator=R9.B1
+Change Component Designator: OldDesignator=R6.B2 NewDesignator=R9.B2
+Change Component Designator: OldDesignator=R6.B3 NewDesignator=R9.B3
+Change Component Designator: OldDesignator=R6.B4 NewDesignator=R9.B4
+Change Component Designator: OldDesignator=R6.B5 NewDesignator=R9.B5
+Change Component Designator: OldDesignator=R6.B6 NewDesignator=R9.B6
+Change Component Designator: OldDesignator=R7.B1 NewDesignator=R10.B1
+Change Component Designator: OldDesignator=R7.B2 NewDesignator=R10.B2
+Change Component Designator: OldDesignator=R7.B3 NewDesignator=R10.B3
+Change Component Designator: OldDesignator=R7.B4 NewDesignator=R10.B4
+Change Component Designator: OldDesignator=R7.B5 NewDesignator=R10.B5
+Change Component Designator: OldDesignator=R7.B6 NewDesignator=R10.B6
+Change Component Designator: OldDesignator=R8.B1 NewDesignator=R11.B1
+Change Component Designator: OldDesignator=R8.B2 NewDesignator=R11.B2
+Change Component Designator: OldDesignator=R8.B3 NewDesignator=R11.B3
+Change Component Designator: OldDesignator=R8.B4 NewDesignator=R11.B4
+Change Component Designator: OldDesignator=R8.B5 NewDesignator=R11.B5
+Change Component Designator: OldDesignator=R8.B6 NewDesignator=R11.B6
+Change Component Designator: OldDesignator=R9.B1 NewDesignator=R6.B1
+Change Component Designator: OldDesignator=R9.B2 NewDesignator=R6.B2
+Change Component Designator: OldDesignator=R9.B3 NewDesignator=R6.B3
+Change Component Designator: OldDesignator=R9.B4 NewDesignator=R6.B4
+Change Component Designator: OldDesignator=R9.B5 NewDesignator=R6.B5
+Change Component Designator: OldDesignator=R9.B6 NewDesignator=R6.B6
+Change Component Designator: OldDesignator=R10.B1 NewDesignator=R7.B1
+Change Component Designator: OldDesignator=R10.B2 NewDesignator=R7.B2
+Change Component Designator: OldDesignator=R10.B3 NewDesignator=R7.B3
+Change Component Designator: OldDesignator=R10.B4 NewDesignator=R7.B4
+Change Component Designator: OldDesignator=R10.B5 NewDesignator=R7.B5
+Change Component Designator: OldDesignator=R10.B6 NewDesignator=R7.B6
+Change Component Designator: OldDesignator=R11.B1 NewDesignator=R8.B1
+Change Component Designator: OldDesignator=R11.B2 NewDesignator=R8.B2
+Change Component Designator: OldDesignator=R11.B3 NewDesignator=R8.B3
+Change Component Designator: OldDesignator=R11.B4 NewDesignator=R8.B4
+Change Component Designator: OldDesignator=R11.B5 NewDesignator=R8.B5
+Change Component Designator: OldDesignator=R11.B6 NewDesignator=R8.B6
+Added Pin To Net: NetName=B_IN1 Pin=R6.B1-1
+Added Pin To Net: NetName=B-ADC1 Pin=R6.B1-2
+Added Pin To Net: NetName=B_IN2 Pin=R6.B2-1
+Added Pin To Net: NetName=B-ADC2 Pin=R6.B2-2
+Added Pin To Net: NetName=B_IN3 Pin=R6.B3-1
+Added Pin To Net: NetName=B-ADC3 Pin=R6.B3-2
+Added Pin To Net: NetName=B_IN4 Pin=R6.B4-1
+Added Pin To Net: NetName=B-ADC4 Pin=R6.B4-2
+Added Pin To Net: NetName=B_IN5 Pin=R6.B5-1
+Added Pin To Net: NetName=B-ADC5 Pin=R6.B5-2
+Added Pin To Net: NetName=B_IN6 Pin=R6.B6-1
+Added Pin To Net: NetName=B-ADC6 Pin=R6.B6-2
+Added Pin To Net: NetName=GND Pin=R7.B1-1
+Added Pin To Net: NetName=B+ADC1 Pin=R7.B1-2
+Added Pin To Net: NetName=GND Pin=R7.B2-1
+Added Pin To Net: NetName=B+ADC2 Pin=R7.B2-2
+Added Pin To Net: NetName=GND Pin=R7.B3-1
+Added Pin To Net: NetName=B+ADC3 Pin=R7.B3-2
+Added Pin To Net: NetName=GND Pin=R7.B4-1
+Added Pin To Net: NetName=B+ADC4 Pin=R7.B4-2
+Added Pin To Net: NetName=GND Pin=R7.B5-1
+Added Pin To Net: NetName=B+ADC5 Pin=R7.B5-2
+Added Pin To Net: NetName=GND Pin=R7.B6-1
+Added Pin To Net: NetName=B+ADC6 Pin=R7.B6-2
+Added Pin To Net: NetName=GND Pin=R8.B1-1
+Added Pin To Net: NetName=B-ADC1 Pin=R8.B1-2
+Added Pin To Net: NetName=GND Pin=R8.B2-1
+Added Pin To Net: NetName=B-ADC2 Pin=R8.B2-2
+Added Pin To Net: NetName=GND Pin=R8.B3-1
+Added Pin To Net: NetName=B-ADC3 Pin=R8.B3-2
+Added Pin To Net: NetName=GND Pin=R8.B4-1
+Added Pin To Net: NetName=B-ADC4 Pin=R8.B4-2
+Added Pin To Net: NetName=GND Pin=R8.B5-1
+Added Pin To Net: NetName=B-ADC5 Pin=R8.B5-2
+Added Pin To Net: NetName=GND Pin=R8.B6-1
+Added Pin To Net: NetName=B-ADC6 Pin=R8.B6-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Added Member To Class: ClassName=B1 Member=Component R9.B1 (R9) Res3
+Added Member To Class: ClassName=B2 Member=Component R9.B2 (R9) Res3
+Added Member To Class: ClassName=B3 Member=Component R9.B3 (R9) Res3
+Added Member To Class: ClassName=B4 Member=Component R9.B4 (R9) Res3
+Added Member To Class: ClassName=B5 Member=Component R9.B5 (R9) Res3
+Added Member To Class: ClassName=B6 Member=Component R9.B6 (R9) Res3
+Added Member To Class: ClassName=B1 Member=Component R10.B1 (R10) Res3
+Added Member To Class: ClassName=B2 Member=Component R10.B2 (R10) Res3
+Added Member To Class: ClassName=B3 Member=Component R10.B3 (R10) Res3
+Added Member To Class: ClassName=B4 Member=Component R10.B4 (R10) Res3
+Added Member To Class: ClassName=B5 Member=Component R10.B5 (R10) Res3
+Added Member To Class: ClassName=B6 Member=Component R10.B6 (R10) Res3
+Added Member To Class: ClassName=B1 Member=Component R11.B1 (R11) Res3
+Added Member To Class: ClassName=B2 Member=Component R11.B2 (R11) Res3
+Added Member To Class: ClassName=B3 Member=Component R11.B3 (R11) Res3
+Added Member To Class: ClassName=B4 Member=Component R11.B4 (R11) Res3
+Added Member To Class: ClassName=B5 Member=Component R11.B5 (R11) Res3
+Added Member To Class: ClassName=B6 Member=Component R11.B6 (R11) Res3

@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=B2 Member=C1_$ChannelName
+Removed Member From Class: ClassName=B3 Member=C1_$ChannelName
+Removed Member From Class: ClassName=B4 Member=C1_$ChannelName
+Removed Member From Class: ClassName=B5 Member=C1_$ChannelName
+Removed Member From Class: ClassName=B6 Member=C1_$ChannelName
+Removed Member From Class: ClassName=B2 Member=C2_$ChannelName
+Removed Member From Class: ClassName=B3 Member=C2_$ChannelName
+Removed Member From Class: ClassName=B4 Member=C2_$ChannelName
+Removed Member From Class: ClassName=B5 Member=C2_$ChannelName
+Removed Member From Class: ClassName=B6 Member=C2_$ChannelName
+Change Component Designator: OldDesignator=C1_$ChannelName NewDesignator=C1.B1
+Change Component Designator: OldDesignator=C1_$ChannelName NewDesignator=C1.B2
+Change Component Designator: OldDesignator=C1_$ChannelName NewDesignator=C1.B3
+Change Component Designator: OldDesignator=C1_$ChannelName NewDesignator=C1.B4
+Change Component Designator: OldDesignator=C1_$ChannelName NewDesignator=C1.B5
+Change Component Designator: OldDesignator=C1_$ChannelName NewDesignator=C1.B6
+Change Component Designator: OldDesignator=C2_$ChannelName NewDesignator=C2.B1
+Change Component Designator: OldDesignator=C2_$ChannelName NewDesignator=C2.B2
+Change Component Designator: OldDesignator=C2_$ChannelName NewDesignator=C2.B3
+Change Component Designator: OldDesignator=C2_$ChannelName NewDesignator=C2.B4
+Change Component Designator: OldDesignator=C2_$ChannelName NewDesignator=C2.B5
+Change Component Designator: OldDesignator=C2_$ChannelName NewDesignator=C2.B6
+Added Member To Class: ClassName=B2 Member=Component C1.B2 (C1) Cap
+Added Member To Class: ClassName=B3 Member=Component C1.B3 (C1) Cap
+Added Member To Class: ClassName=B4 Member=Component C1.B4 (C1) Cap
+Added Member To Class: ClassName=B5 Member=Component C1.B5 (C1) Cap
+Added Member To Class: ClassName=B6 Member=Component C1.B6 (C1) Cap
+Added Member To Class: ClassName=B2 Member=Component C2.B2 (C2) Cap
+Added Member To Class: ClassName=B3 Member=Component C2.B3 (C2) Cap
+Added Member To Class: ClassName=B4 Member=Component C2.B4 (C2) Cap
+Added Member To Class: ClassName=B5 Member=Component C2.B5 (C2) Cap
+Added Member To Class: ClassName=B6 Member=Component C2.B6 (C2) Cap

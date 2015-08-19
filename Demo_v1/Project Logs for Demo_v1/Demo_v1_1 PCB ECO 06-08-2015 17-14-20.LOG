@@ -1,0 +1,270 @@
+Added Component: Designator=R33_Bat1(J1-0603)
+Added Component: Designator=R33_Bat2(J1-0603)
+Added Component: Designator=R33_Bat3(J1-0603)
+Added Component: Designator=R33_Bat4(J1-0603)
+Added Component: Designator=R33_Bat5(J1-0603)
+Added Component: Designator=R33_Bat6(J1-0603)
+Added Component: Designator=R34_Bat1(J1-0603)
+Added Component: Designator=R34_Bat2(J1-0603)
+Added Component: Designator=R34_Bat3(J1-0603)
+Added Component: Designator=R34_Bat4(J1-0603)
+Added Component: Designator=R34_Bat5(J1-0603)
+Added Component: Designator=R34_Bat6(J1-0603)
+Added Component: Designator=R35_Bat1(J1-0603)
+Added Component: Designator=R35_Bat2(J1-0603)
+Added Component: Designator=R35_Bat3(J1-0603)
+Added Component: Designator=R35_Bat4(J1-0603)
+Added Component: Designator=R35_Bat5(J1-0603)
+Added Component: Designator=R35_Bat6(J1-0603)
+Added Component: Designator=R36_Bat1(J1-0603)
+Added Component: Designator=R36_Bat2(J1-0603)
+Added Component: Designator=R36_Bat3(J1-0603)
+Added Component: Designator=R36_Bat4(J1-0603)
+Added Component: Designator=R36_Bat5(J1-0603)
+Added Component: Designator=R36_Bat6(J1-0603)
+Added Component: Designator=R37_Bat1(J1-0603)
+Added Component: Designator=R37_Bat2(J1-0603)
+Added Component: Designator=R37_Bat3(J1-0603)
+Added Component: Designator=R37_Bat4(J1-0603)
+Added Component: Designator=R37_Bat5(J1-0603)
+Added Component: Designator=R37_Bat6(J1-0603)
+Added Component: Designator=R38_Bat1(J1-0603)
+Added Component: Designator=R38_Bat2(J1-0603)
+Added Component: Designator=R38_Bat3(J1-0603)
+Added Component: Designator=R38_Bat4(J1-0603)
+Added Component: Designator=R38_Bat5(J1-0603)
+Added Component: Designator=R38_Bat6(J1-0603)
+Added Component: Designator=R39_Bat1(J1-0603)
+Added Component: Designator=R39_Bat2(J1-0603)
+Added Component: Designator=R39_Bat3(J1-0603)
+Added Component: Designator=R39_Bat4(J1-0603)
+Added Component: Designator=R39_Bat5(J1-0603)
+Added Component: Designator=R39_Bat6(J1-0603)
+Added Pin To Net: NetName=B+_Bat1 Pin=R33_Bat1-2
+Added Net: Name=B+_Bat1
+Added Pin To Net: NetName=B+_Bat2 Pin=R33_Bat2-2
+Added Net: Name=B+_Bat2
+Added Pin To Net: NetName=B+_Bat3 Pin=R33_Bat3-2
+Added Net: Name=B+_Bat3
+Added Pin To Net: NetName=B+_Bat4 Pin=R33_Bat4-2
+Added Net: Name=B+_Bat4
+Added Pin To Net: NetName=B+_Bat5 Pin=R33_Bat5-2
+Added Net: Name=B+_Bat5
+Added Pin To Net: NetName=B+_Bat6 Pin=R33_Bat6-2
+Added Net: Name=B+_Bat6
+Added Pin To Net: NetName=B-_Bat1 Pin=R35_Bat1-1
+Added Pin To Net: NetName=B-_Bat1 Pin=R38_Bat1-1
+Added Pin To Net: NetName=B-_Bat1 Pin=R39_Bat1-1
+Added Net: Name=B-_Bat1
+Added Pin To Net: NetName=B-_Bat2 Pin=R35_Bat2-1
+Added Pin To Net: NetName=B-_Bat2 Pin=R38_Bat2-1
+Added Pin To Net: NetName=B-_Bat2 Pin=R39_Bat2-1
+Added Net: Name=B-_Bat2
+Added Pin To Net: NetName=B-_Bat3 Pin=R35_Bat3-1
+Added Pin To Net: NetName=B-_Bat3 Pin=R38_Bat3-1
+Added Pin To Net: NetName=B-_Bat3 Pin=R39_Bat3-1
+Added Net: Name=B-_Bat3
+Added Pin To Net: NetName=B-_Bat4 Pin=R35_Bat4-1
+Added Pin To Net: NetName=B-_Bat4 Pin=R38_Bat4-1
+Added Pin To Net: NetName=B-_Bat4 Pin=R39_Bat4-1
+Added Net: Name=B-_Bat4
+Added Pin To Net: NetName=B-_Bat5 Pin=R35_Bat5-1
+Added Pin To Net: NetName=B-_Bat5 Pin=R38_Bat5-1
+Added Pin To Net: NetName=B-_Bat5 Pin=R39_Bat5-1
+Added Net: Name=B-_Bat5
+Added Pin To Net: NetName=B-_Bat6 Pin=R35_Bat6-1
+Added Pin To Net: NetName=B-_Bat6 Pin=R38_Bat6-1
+Added Pin To Net: NetName=B-_Bat6 Pin=R39_Bat6-1
+Added Net: Name=B-_Bat6
+Added Net: Name=NetD1_Bat1_2
+Added Net: Name=NetD1_Bat1_4
+Added Net: Name=NetD1_Bat1_6
+Added Net: Name=NetD1_Bat1_8
+Added Net: Name=NetD1_Bat1_10
+Added Net: Name=NetD1_Bat1_12
+Added Net: Name=NetD1_Bat1_14
+Added Net: Name=NetD1_Bat1_16
+Added Net: Name=NetD1_Bat1_18
+Added Net: Name=NetD1_Bat1_20
+Added Net: Name=NetD1_Bat2_2
+Added Net: Name=NetD1_Bat2_4
+Added Net: Name=NetD1_Bat2_6
+Added Net: Name=NetD1_Bat2_8
+Added Net: Name=NetD1_Bat2_10
+Added Net: Name=NetD1_Bat2_12
+Added Net: Name=NetD1_Bat2_14
+Added Net: Name=NetD1_Bat2_16
+Added Net: Name=NetD1_Bat2_18
+Added Net: Name=NetD1_Bat2_20
+Added Net: Name=NetD1_Bat3_2
+Added Net: Name=NetD1_Bat3_4
+Added Net: Name=NetD1_Bat3_6
+Added Net: Name=NetD1_Bat3_8
+Added Net: Name=NetD1_Bat3_10
+Added Net: Name=NetD1_Bat3_12
+Added Net: Name=NetD1_Bat3_14
+Added Net: Name=NetD1_Bat3_16
+Added Net: Name=NetD1_Bat3_18
+Added Net: Name=NetD1_Bat3_20
+Added Net: Name=NetD1_Bat4_2
+Added Net: Name=NetD1_Bat4_4
+Added Net: Name=NetD1_Bat4_6
+Added Net: Name=NetD1_Bat4_8
+Added Net: Name=NetD1_Bat4_10
+Added Net: Name=NetD1_Bat4_12
+Added Net: Name=NetD1_Bat4_14
+Added Net: Name=NetD1_Bat4_16
+Added Net: Name=NetD1_Bat4_18
+Added Net: Name=NetD1_Bat4_20
+Added Net: Name=NetD1_Bat5_2
+Added Net: Name=NetD1_Bat5_4
+Added Net: Name=NetD1_Bat5_6
+Added Net: Name=NetD1_Bat5_8
+Added Net: Name=NetD1_Bat5_10
+Added Net: Name=NetD1_Bat5_12
+Added Net: Name=NetD1_Bat5_14
+Added Net: Name=NetD1_Bat5_16
+Added Net: Name=NetD1_Bat5_18
+Added Net: Name=NetD1_Bat5_20
+Added Net: Name=NetD1_Bat6_2
+Added Net: Name=NetD1_Bat6_4
+Added Net: Name=NetD1_Bat6_6
+Added Net: Name=NetD1_Bat6_8
+Added Net: Name=NetD1_Bat6_10
+Added Net: Name=NetD1_Bat6_12
+Added Net: Name=NetD1_Bat6_14
+Added Net: Name=NetD1_Bat6_16
+Added Net: Name=NetD1_Bat6_18
+Added Net: Name=NetD1_Bat6_20
+Added Pin To Net: NetName=NetLEDDriver_Bat1_4 Pin=R36_Bat1-1
+Added Pin To Net: NetName=NetLEDDriver_Bat1_4 Pin=R38_Bat1-2
+Added Net: Name=NetLEDDriver_Bat1_4
+Added Pin To Net: NetName=NetLEDDriver_Bat1_5 Pin=R34_Bat1-1
+Added Pin To Net: NetName=NetLEDDriver_Bat1_5 Pin=R35_Bat1-2
+Added Net: Name=NetLEDDriver_Bat1_5
+Added Pin To Net: NetName=NetLEDDriver_Bat1_6 Pin=R36_Bat1-2
+Added Pin To Net: NetName=NetLEDDriver_Bat1_6 Pin=R37_Bat1-2
+Added Net: Name=NetLEDDriver_Bat1_6
+Added Pin To Net: NetName=NetLEDDriver_Bat1_8 Pin=R37_Bat1-1
+Added Pin To Net: NetName=NetLEDDriver_Bat1_8 Pin=R39_Bat1-2
+Added Net: Name=NetLEDDriver_Bat1_8
+Added Pin To Net: NetName=NetLEDDriver_Bat2_4 Pin=R36_Bat2-1
+Added Pin To Net: NetName=NetLEDDriver_Bat2_4 Pin=R38_Bat2-2
+Added Net: Name=NetLEDDriver_Bat2_4
+Added Pin To Net: NetName=NetLEDDriver_Bat2_5 Pin=R34_Bat2-1
+Added Pin To Net: NetName=NetLEDDriver_Bat2_5 Pin=R35_Bat2-2
+Added Net: Name=NetLEDDriver_Bat2_5
+Added Pin To Net: NetName=NetLEDDriver_Bat2_6 Pin=R36_Bat2-2
+Added Pin To Net: NetName=NetLEDDriver_Bat2_6 Pin=R37_Bat2-2
+Added Net: Name=NetLEDDriver_Bat2_6
+Added Pin To Net: NetName=NetLEDDriver_Bat2_8 Pin=R37_Bat2-1
+Added Pin To Net: NetName=NetLEDDriver_Bat2_8 Pin=R39_Bat2-2
+Added Net: Name=NetLEDDriver_Bat2_8
+Added Pin To Net: NetName=NetLEDDriver_Bat3_4 Pin=R36_Bat3-1
+Added Pin To Net: NetName=NetLEDDriver_Bat3_4 Pin=R38_Bat3-2
+Added Net: Name=NetLEDDriver_Bat3_4
+Added Pin To Net: NetName=NetLEDDriver_Bat3_5 Pin=R34_Bat3-1
+Added Pin To Net: NetName=NetLEDDriver_Bat3_5 Pin=R35_Bat3-2
+Added Net: Name=NetLEDDriver_Bat3_5
+Added Pin To Net: NetName=NetLEDDriver_Bat3_6 Pin=R36_Bat3-2
+Added Pin To Net: NetName=NetLEDDriver_Bat3_6 Pin=R37_Bat3-2
+Added Net: Name=NetLEDDriver_Bat3_6
+Added Pin To Net: NetName=NetLEDDriver_Bat3_8 Pin=R37_Bat3-1
+Added Pin To Net: NetName=NetLEDDriver_Bat3_8 Pin=R39_Bat3-2
+Added Net: Name=NetLEDDriver_Bat3_8
+Added Pin To Net: NetName=NetLEDDriver_Bat4_4 Pin=R36_Bat4-1
+Added Pin To Net: NetName=NetLEDDriver_Bat4_4 Pin=R38_Bat4-2
+Added Net: Name=NetLEDDriver_Bat4_4
+Added Pin To Net: NetName=NetLEDDriver_Bat4_5 Pin=R34_Bat4-1
+Added Pin To Net: NetName=NetLEDDriver_Bat4_5 Pin=R35_Bat4-2
+Added Net: Name=NetLEDDriver_Bat4_5
+Added Pin To Net: NetName=NetLEDDriver_Bat4_6 Pin=R36_Bat4-2
+Added Pin To Net: NetName=NetLEDDriver_Bat4_6 Pin=R37_Bat4-2
+Added Net: Name=NetLEDDriver_Bat4_6
+Added Pin To Net: NetName=NetLEDDriver_Bat4_8 Pin=R37_Bat4-1
+Added Pin To Net: NetName=NetLEDDriver_Bat4_8 Pin=R39_Bat4-2
+Added Net: Name=NetLEDDriver_Bat4_8
+Added Pin To Net: NetName=NetLEDDriver_Bat5_4 Pin=R36_Bat5-1
+Added Pin To Net: NetName=NetLEDDriver_Bat5_4 Pin=R38_Bat5-2
+Added Net: Name=NetLEDDriver_Bat5_4
+Added Pin To Net: NetName=NetLEDDriver_Bat5_5 Pin=R34_Bat5-1
+Added Pin To Net: NetName=NetLEDDriver_Bat5_5 Pin=R35_Bat5-2
+Added Net: Name=NetLEDDriver_Bat5_5
+Added Pin To Net: NetName=NetLEDDriver_Bat5_6 Pin=R36_Bat5-2
+Added Pin To Net: NetName=NetLEDDriver_Bat5_6 Pin=R37_Bat5-2
+Added Net: Name=NetLEDDriver_Bat5_6
+Added Pin To Net: NetName=NetLEDDriver_Bat5_8 Pin=R37_Bat5-1
+Added Pin To Net: NetName=NetLEDDriver_Bat5_8 Pin=R39_Bat5-2
+Added Net: Name=NetLEDDriver_Bat5_8
+Added Pin To Net: NetName=NetLEDDriver_Bat6_4 Pin=R36_Bat6-1
+Added Pin To Net: NetName=NetLEDDriver_Bat6_4 Pin=R38_Bat6-2
+Added Net: Name=NetLEDDriver_Bat6_4
+Added Pin To Net: NetName=NetLEDDriver_Bat6_5 Pin=R34_Bat6-1
+Added Pin To Net: NetName=NetLEDDriver_Bat6_5 Pin=R35_Bat6-2
+Added Net: Name=NetLEDDriver_Bat6_5
+Added Pin To Net: NetName=NetLEDDriver_Bat6_6 Pin=R36_Bat6-2
+Added Pin To Net: NetName=NetLEDDriver_Bat6_6 Pin=R37_Bat6-2
+Added Net: Name=NetLEDDriver_Bat6_6
+Added Pin To Net: NetName=NetLEDDriver_Bat6_8 Pin=R37_Bat6-1
+Added Pin To Net: NetName=NetLEDDriver_Bat6_8 Pin=R39_Bat6-2
+Added Net: Name=NetLEDDriver_Bat6_8
+Added Pin To Net: NetName=NetR33_Bat1_1 Pin=R33_Bat1-1
+Added Pin To Net: NetName=NetR33_Bat1_1 Pin=R34_Bat1-2
+Added Net: Name=NetR33_Bat1_1
+Added Pin To Net: NetName=NetR33_Bat2_1 Pin=R33_Bat2-1
+Added Pin To Net: NetName=NetR33_Bat2_1 Pin=R34_Bat2-2
+Added Net: Name=NetR33_Bat2_1
+Added Pin To Net: NetName=NetR33_Bat3_1 Pin=R33_Bat3-1
+Added Pin To Net: NetName=NetR33_Bat3_1 Pin=R34_Bat3-2
+Added Net: Name=NetR33_Bat3_1
+Added Pin To Net: NetName=NetR33_Bat4_1 Pin=R33_Bat4-1
+Added Pin To Net: NetName=NetR33_Bat4_1 Pin=R34_Bat4-2
+Added Net: Name=NetR33_Bat4_1
+Added Pin To Net: NetName=NetR33_Bat5_1 Pin=R33_Bat5-1
+Added Pin To Net: NetName=NetR33_Bat5_1 Pin=R34_Bat5-2
+Added Net: Name=NetR33_Bat5_1
+Added Pin To Net: NetName=NetR33_Bat6_1 Pin=R33_Bat6-1
+Added Pin To Net: NetName=NetR33_Bat6_1 Pin=R34_Bat6-2
+Added Net: Name=NetR33_Bat6_1
+Added Member To Class: ClassName=Bat1 Member=Component R33_Bat1 (R33) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R33_Bat2 (R33) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R33_Bat3 (R33) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R33_Bat4 (R33) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R33_Bat5 (R33) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R33_Bat6 (R33) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R34_Bat1 (R34) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R34_Bat2 (R34) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R34_Bat3 (R34) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R34_Bat4 (R34) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R34_Bat5 (R34) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R34_Bat6 (R34) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R35_Bat1 (R35) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R35_Bat2 (R35) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R35_Bat3 (R35) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R35_Bat4 (R35) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R35_Bat5 (R35) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R35_Bat6 (R35) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R36_Bat1 (R36) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R36_Bat2 (R36) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R36_Bat3 (R36) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R36_Bat4 (R36) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R36_Bat5 (R36) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R36_Bat6 (R36) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R37_Bat1 (R37) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R37_Bat2 (R37) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R37_Bat3 (R37) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R37_Bat4 (R37) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R37_Bat5 (R37) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R37_Bat6 (R37) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R38_Bat1 (R38) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R38_Bat2 (R38) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R38_Bat3 (R38) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R38_Bat4 (R38) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R38_Bat5 (R38) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R38_Bat6 (R38) Res3
+Added Member To Class: ClassName=Bat1 Member=Component R39_Bat1 (R39) Res3
+Added Member To Class: ClassName=Bat2 Member=Component R39_Bat2 (R39) Res3
+Added Member To Class: ClassName=Bat3 Member=Component R39_Bat3 (R39) Res3
+Added Member To Class: ClassName=Bat4 Member=Component R39_Bat4 (R39) Res3
+Added Member To Class: ClassName=Bat5 Member=Component R39_Bat5 (R39) Res3
+Added Member To Class: ClassName=Bat6 Member=Component R39_Bat6 (R39) Res3

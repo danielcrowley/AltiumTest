@@ -1,0 +1,89 @@
+Protel Design System Design Rule Check
+PCB File : D:\Relectrify\CircuitBoard\CircuitStudio\Demo_v1\Demo_v1_2.PcbDoc
+Date     : 14/08/2015
+Time     : 20:21:32
+
+Processing Rule : Room SwitchingModule (Bounding Region = (4429.134mil, 1653.543mil, 5994.095mil, 6742.126mil) (InComponentClass('SwitchingModule'))
+Rule Violations :0
+
+Processing Rule : Room B2 (Bounding Region = (1121.654mil, 2669.784mil, 5304.725mil, 3663.878mil) (InComponentClass('B2'))
+Rule Violations :0
+
+Processing Rule : Room u1 (Bounding Region = (5078.74mil, 3641.024mil, 5925.197mil, 6692.913mil) (InComponentClass('u1'))
+Rule Violations :0
+
+Processing Rule : Room Mutliplex (Bounding Region = (4906.969mil, 2651.181mil, 5994.095mil, 3635.433mil) (InComponentClass('Mutliplex'))
+Rule Violations :0
+
+Processing Rule : Room B6 (Bounding Region = (1122.047mil, 5787.402mil, 5305.118mil, 6781.496mil) (InComponentClass('B6'))
+Rule Violations :0
+
+Processing Rule : Room B5 (Bounding Region = (1122.047mil, 4970.472mil, 5305.118mil, 5964.567mil) (InComponentClass('B5'))
+Rule Violations :0
+
+Processing Rule : Room B4 (Bounding Region = (1122.047mil, 4202.756mil, 5305.118mil, 5196.85mil) (InComponentClass('B4'))
+Rule Violations :0
+
+Processing Rule : Room B3 (Bounding Region = (1121.654mil, 3427.657mil, 5304.725mil, 4421.752mil) (InComponentClass('B3'))
+Rule Violations :0
+
+Processing Rule : Room B1 (Bounding Region = (1122.047mil, 1899.606mil, 5305.118mil, 2893.701mil) (InComponentClass('B1'))
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net B_IN1 Between Pad Batt.B1-N (3439.37,2122.539mil) And Pad Batt.B1-N (3439.37,2319.39mil)
+   Violation between Un-Routed Net Constraint: Net B_IN1 Between Pad Batt.B1-N (3439.37,2122.539mil) And Via (3710,2110mil)
+   Violation between Un-Routed Net Constraint: Net B_IN2 Between Pad Batt.B2-N (3438.976,2892.716mil) And Pad Batt.B2-N (3438.976,3089.567mil)
+   Violation between Un-Routed Net Constraint: Net B_IN2 Between Pad Batt.B2-N (3438.976,2892.716mil) And Via (3700,2870mil)
+   Violation between Un-Routed Net Constraint: Net B_IN3 Between Pad Batt.B3-N (3438.976,3650.59mil) And Pad Batt.B3-N (3438.976,3847.441mil)
+   Violation between Un-Routed Net Constraint: Net B_IN3 Between Pad Batt.B3-N (3438.976,3650.59mil) And Via (3701.102,3637mil)
+   Violation between Un-Routed Net Constraint: Net B_IN4 Between Pad Batt.B4-N (3439.37,4425.689mil) And Pad Batt.B4-N (3439.37,4622.539mil)
+   Violation between Un-Routed Net Constraint: Net B_IN4 Between Pad Batt.B4-N (3439.37,4425.689mil) And Via (3711.102,4415mil)
+   Violation between Un-Routed Net Constraint: Net B_IN5 Between Pad Batt.B5-N (3439.37,5193.405mil) And Pad Batt.B5-N (3439.37,5390.256mil)
+   Violation between Un-Routed Net Constraint: Net B_IN5 Between Pad Batt.B5-N (3439.37,5193.405mil) And Via (3710,5185mil)
+   Violation between Un-Routed Net Constraint: Net B_IN6 Between Pad Batt.B6-N (3439.37,6010.335mil) And Pad Batt.B6-N (3439.37,6207.185mil)
+   Violation between Un-Routed Net Constraint: Net B_IN6 Between Pad Batt.B6-N (3439.37,6010.335mil) And Via (3710.63,5989.252mil)
+Rule Violations :12
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Time Elapsed        : 00:00:01

@@ -1,0 +1,76 @@
+Added Pin To Net: NetName=NetOC_1_Bat1_2 Pin=*1-2
+Added Pin To Net: NetName=NetOC_1_Bat2_2 Pin=*1-3
+Added Pin To Net: NetName=NetOC_1_Bat3_2 Pin=*1-4
+Added Pin To Net: NetName=NetOC_1_Bat4_2 Pin=*1-9
+Added Pin To Net: NetName=NetOC_1_Bat5_2 Pin=*1-10
+Added Pin To Net: NetName=NetOC_1_Bat6_2 Pin=*1-11
+Added Pin To Net: NetName=NetOC_2_Bat1_2 Pin=*1-12
+Added Pin To Net: NetName=NetOC_2_Bat2_2 Pin=*1-13
+Added Pin To Net: NetName=NetOC_2_Bat3_2 Pin=*1-14
+Added Pin To Net: NetName=NetOC_2_Bat4_2 Pin=*1-15
+Added Pin To Net: NetName=NetOC_2_Bat5_2 Pin=*1-16
+Added Pin To Net: NetName=NetOC_2_Bat6_2 Pin=*1-17
+Added Pin To Net: NetName=M- Pin=R2-1
+Added Pin To Net: NetName=M+ Pin=R3-1
+Added Pin To Net: NetName=Net*2_Bat1_3 Pin=R4-1
+Added Pin To Net: NetName=Net*2_Bat6_2 Pin=R5-1
+Added Pin To Net: NetName=Net*2_Bat2_3 Pin=R6-1
+Added Pin To Net: NetName=Net*2_Bat5_2 Pin=R9-1
+Added Pin To Net: NetName=Net*2_Bat3_3 Pin=R10-1
+Added Pin To Net: NetName=Net*2_Bat4_2 Pin=R11-1
+Added Pin To Net: NetName=Net*2_Bat4_3 Pin=R12-1
+Added Pin To Net: NetName=Net*2_Bat3_2 Pin=R13-1
+Added Pin To Net: NetName=Net*2_Bat5_3 Pin=R14-1
+Added Pin To Net: NetName=Net*2_Bat2_2 Pin=R15-1
+Added Pin To Net: NetName=Net*2_Bat1_2 Pin=R16-1
+Added Pin To Net: NetName=M- Pin=R17-1
+Change Net Name : Old Net Name=M+ New Net Name=B+7
+Change Net Name : Old Net Name=M- New Net Name=B-7
+Change Net Name : Old Net Name=Net*2_Bat1_2 New Net Name=B+1
+Change Net Name : Old Net Name=Net*2_Bat1_3 New Net Name=B-2
+Change Net Name : Old Net Name=Net*2_Bat2_2 New Net Name=B+2
+Change Net Name : Old Net Name=Net*2_Bat2_3 New Net Name=B-3
+Change Net Name : Old Net Name=Net*2_Bat3_2 New Net Name=B+3
+Change Net Name : Old Net Name=Net*2_Bat3_3 New Net Name=B-4
+Change Net Name : Old Net Name=Net*2_Bat4_2 New Net Name=B+4
+Change Net Name : Old Net Name=Net*2_Bat4_3 New Net Name=B-5
+Change Net Name : Old Net Name=Net*2_Bat5_2 New Net Name=B+5
+Change Net Name : Old Net Name=Net*2_Bat5_3 New Net Name=B-6
+Change Net Name : Old Net Name=Net*2_Bat6_2 New Net Name=B+6
+Change Net Name : Old Net Name=NetOC_1_Bat1_2 New Net Name=NCTRL1
+Change Net Name : Old Net Name=NetOC_1_Bat2_2 New Net Name=NCTRL2
+Change Net Name : Old Net Name=NetOC_1_Bat3_2 New Net Name=NCTRL3
+Change Net Name : Old Net Name=NetOC_1_Bat4_2 New Net Name=NCTRL4
+Change Net Name : Old Net Name=NetOC_1_Bat5_2 New Net Name=NCTRL5
+Change Net Name : Old Net Name=NetOC_1_Bat6_2 New Net Name=NCTRL6
+Change Net Name : Old Net Name=NetOC_2_Bat1_2 New Net Name=PCTRL1
+Change Net Name : Old Net Name=NetOC_2_Bat2_2 New Net Name=PCTRL2
+Change Net Name : Old Net Name=NetOC_2_Bat3_2 New Net Name=PCTRL3
+Change Net Name : Old Net Name=NetOC_2_Bat4_2 New Net Name=PCTRL4
+Change Net Name : Old Net Name=NetOC_2_Bat5_2 New Net Name=PCTRL5
+Change Net Name : Old Net Name=NetOC_2_Bat6_2 New Net Name=PCTRL6
+Added Member To Class: ClassName=B+[7..1] Member=Element[1]: B+
+Added Member To Class: ClassName=B+[7..1] Member=Element[2]: B+
+Added Member To Class: ClassName=B+[7..1] Member=Element[3]: B+
+Added Member To Class: ClassName=B+[7..1] Member=Element[4]: B+
+Added Member To Class: ClassName=B+[7..1] Member=Element[5]: B+
+Added Member To Class: ClassName=B+[7..1] Member=Element[6]: B+
+Added Member To Class: ClassName=B+[7..1] Member=Element[7]: B+
+Added Member To Class: ClassName=B-[7..1] Member=Element[2]: B-
+Added Member To Class: ClassName=B-[7..1] Member=Element[3]: B-
+Added Member To Class: ClassName=B-[7..1] Member=Element[4]: B-
+Added Member To Class: ClassName=B-[7..1] Member=Element[5]: B-
+Added Member To Class: ClassName=B-[7..1] Member=Element[6]: B-
+Added Member To Class: ClassName=B-[7..1] Member=Element[7]: B-
+Added Member To Class: ClassName=NCTRL[6..1] Member=Element[1]: NCTRL
+Added Member To Class: ClassName=NCTRL[6..1] Member=Element[2]: NCTRL
+Added Member To Class: ClassName=NCTRL[6..1] Member=Element[3]: NCTRL
+Added Member To Class: ClassName=NCTRL[6..1] Member=Element[4]: NCTRL
+Added Member To Class: ClassName=NCTRL[6..1] Member=Element[5]: NCTRL
+Added Member To Class: ClassName=NCTRL[6..1] Member=Element[6]: NCTRL
+Added Member To Class: ClassName=PCTRL[6..1] Member=Element[1]: PCTRL
+Added Member To Class: ClassName=PCTRL[6..1] Member=Element[2]: PCTRL
+Added Member To Class: ClassName=PCTRL[6..1] Member=Element[3]: PCTRL
+Added Member To Class: ClassName=PCTRL[6..1] Member=Element[4]: PCTRL
+Added Member To Class: ClassName=PCTRL[6..1] Member=Element[5]: PCTRL
+Added Member To Class: ClassName=PCTRL[6..1] Member=Element[6]: PCTRL

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NCTRL1 Pin=OC_2_Bat1-3
+Removed Pin From Net: NetName=NCTRL2 Pin=OC_2_Bat2-3
+Removed Pin From Net: NetName=NCTRL3 Pin=OC_2_Bat3-3
+Removed Pin From Net: NetName=NCTRL4 Pin=OC_2_Bat4-3
+Removed Pin From Net: NetName=NCTRL5 Pin=OC_2_Bat5-3
+Removed Pin From Net: NetName=NCTRL6 Pin=OC_2_Bat6-3
+Added Pin To Net: NetName=NetOC_2_Bat1_3 Pin=OC_2_Bat1-3
+Added Pin To Net: NetName=NetOC_2_Bat2_3 Pin=OC_2_Bat2-3
+Added Pin To Net: NetName=NetOC_2_Bat3_3 Pin=OC_2_Bat3-3
+Added Pin To Net: NetName=NetOC_2_Bat4_3 Pin=OC_2_Bat4-3
+Added Pin To Net: NetName=NetOC_2_Bat5_3 Pin=OC_2_Bat5-3
+Added Pin To Net: NetName=NetOC_2_Bat6_3 Pin=OC_2_Bat6-3

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MP_A1 Pin=*1-21
+Removed Pin From Net: NetName=MP_A3 Pin=*1-23
+Added Pin To Net: NetName=MP_A3 Pin=*1-21
+Added Pin To Net: NetName=MP_A1 Pin=*1-23

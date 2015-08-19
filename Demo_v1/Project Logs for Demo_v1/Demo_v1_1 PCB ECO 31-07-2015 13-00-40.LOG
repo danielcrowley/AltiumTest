@@ -1,0 +1,72 @@
+Added Component: Designator=OC_1_Bat1(SMDIP4)
+Added Component: Designator=OC_1_Bat2(SMDIP4)
+Added Component: Designator=OC_1_Bat3(SMDIP4)
+Added Component: Designator=OC_1_Bat4(SMDIP4)
+Added Component: Designator=OC_1_Bat5(SMDIP4)
+Added Component: Designator=OC_1_Bat6(SMDIP4)
+Added Component: Designator=OC_2_Bat1(SMDIP4)
+Added Component: Designator=OC_2_Bat2(SMDIP4)
+Added Component: Designator=OC_2_Bat3(SMDIP4)
+Added Component: Designator=OC_2_Bat4(SMDIP4)
+Added Component: Designator=OC_2_Bat5(SMDIP4)
+Added Component: Designator=OC_2_Bat6(SMDIP4)
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat1-1
+Added Pin To Net: NetName=NetOC_1_Bat1_2 Pin=OC_1_Bat1-2
+Added Pin To Net: NetName=Net*4_Bat1_1 Pin=OC_1_Bat1-3
+Added Pin To Net: NetName=NetOC_1_Bat1_4 Pin=OC_1_Bat1-4
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat2-1
+Added Pin To Net: NetName=NetOC_1_Bat2_2 Pin=OC_1_Bat2-2
+Added Pin To Net: NetName=Net*4_Bat2_1 Pin=OC_1_Bat2-3
+Added Pin To Net: NetName=NetOC_1_Bat2_4 Pin=OC_1_Bat2-4
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat3-1
+Added Pin To Net: NetName=NetOC_1_Bat3_2 Pin=OC_1_Bat3-2
+Added Pin To Net: NetName=Net*4_Bat3_1 Pin=OC_1_Bat3-3
+Added Pin To Net: NetName=NetOC_1_Bat3_4 Pin=OC_1_Bat3-4
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat4-1
+Added Pin To Net: NetName=NetOC_1_Bat4_2 Pin=OC_1_Bat4-2
+Added Pin To Net: NetName=Net*4_Bat4_1 Pin=OC_1_Bat4-3
+Added Pin To Net: NetName=NetOC_1_Bat4_4 Pin=OC_1_Bat4-4
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat5-1
+Added Pin To Net: NetName=NetOC_1_Bat5_2 Pin=OC_1_Bat5-2
+Added Pin To Net: NetName=Net*4_Bat5_1 Pin=OC_1_Bat5-3
+Added Pin To Net: NetName=NetOC_1_Bat5_4 Pin=OC_1_Bat5-4
+Added Pin To Net: NetName=+5 Pin=OC_1_Bat6-1
+Added Pin To Net: NetName=NetOC_1_Bat6_2 Pin=OC_1_Bat6-2
+Added Pin To Net: NetName=Net*4_Bat6_1 Pin=OC_1_Bat6-3
+Added Pin To Net: NetName=NetOC_1_Bat6_4 Pin=OC_1_Bat6-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat1-1
+Added Pin To Net: NetName=NetOC_2_Bat1_2 Pin=OC_2_Bat1-2
+Added Pin To Net: NetName=Net*2_Bat1_1 Pin=OC_2_Bat1-3
+Added Pin To Net: NetName=NetOC_2_Bat1_4 Pin=OC_2_Bat1-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat2-1
+Added Pin To Net: NetName=NetOC_2_Bat2_2 Pin=OC_2_Bat2-2
+Added Pin To Net: NetName=Net*2_Bat2_1 Pin=OC_2_Bat2-3
+Added Pin To Net: NetName=NetOC_2_Bat2_4 Pin=OC_2_Bat2-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat3-1
+Added Pin To Net: NetName=NetOC_2_Bat3_2 Pin=OC_2_Bat3-2
+Added Pin To Net: NetName=Net*2_Bat3_1 Pin=OC_2_Bat3-3
+Added Pin To Net: NetName=NetOC_2_Bat3_4 Pin=OC_2_Bat3-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat4-1
+Added Pin To Net: NetName=NetOC_2_Bat4_2 Pin=OC_2_Bat4-2
+Added Pin To Net: NetName=Net*2_Bat4_1 Pin=OC_2_Bat4-3
+Added Pin To Net: NetName=NetOC_2_Bat4_4 Pin=OC_2_Bat4-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat5-1
+Added Pin To Net: NetName=NetOC_2_Bat5_2 Pin=OC_2_Bat5-2
+Added Pin To Net: NetName=Net*2_Bat5_1 Pin=OC_2_Bat5-3
+Added Pin To Net: NetName=NetOC_2_Bat5_4 Pin=OC_2_Bat5-4
+Added Pin To Net: NetName=+5 Pin=OC_2_Bat6-1
+Added Pin To Net: NetName=NetOC_2_Bat6_2 Pin=OC_2_Bat6-2
+Added Pin To Net: NetName=Net*2_Bat6_1 Pin=OC_2_Bat6-3
+Added Pin To Net: NetName=NetOC_2_Bat6_4 Pin=OC_2_Bat6-4
+Added Member To Class: ClassName=Bat1 Member=Component OC_1_Bat1 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat2 Member=Component OC_1_Bat2 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat3 Member=Component OC_1_Bat3 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat4 Member=Component OC_1_Bat4 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat5 Member=Component OC_1_Bat5 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat6 Member=Component OC_1_Bat6 (OC_1) OptoCoupler
+Added Member To Class: ClassName=Bat1 Member=Component OC_2_Bat1 (OC_2) OptoCoupler
+Added Member To Class: ClassName=Bat2 Member=Component OC_2_Bat2 (OC_2) OptoCoupler
+Added Member To Class: ClassName=Bat3 Member=Component OC_2_Bat3 (OC_2) OptoCoupler
+Added Member To Class: ClassName=Bat4 Member=Component OC_2_Bat4 (OC_2) OptoCoupler
+Added Member To Class: ClassName=Bat5 Member=Component OC_2_Bat5 (OC_2) OptoCoupler
+Added Member To Class: ClassName=Bat6 Member=Component OC_2_Bat6 (OC_2) OptoCoupler

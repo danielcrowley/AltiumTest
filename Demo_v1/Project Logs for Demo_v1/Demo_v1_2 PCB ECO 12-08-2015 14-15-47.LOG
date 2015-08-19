@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Removed Pin From Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Added Component: Designator=D1_$ChannelName(LED-1)
+Added Component: Designator=D1_$ChannelName(LED-1)
+Added Component: Designator=D1_$ChannelName(LED-1)
+Added Component: Designator=D1_$ChannelName(LED-1)
+Added Component: Designator=D1_$ChannelName(LED-1)
+Added Component: Designator=D1_$ChannelName(LED-1)
+Added Component: Designator=D2_$ChannelName(LED-1)
+Added Component: Designator=D2_$ChannelName(LED-1)
+Added Component: Designator=D2_$ChannelName(LED-1)
+Added Component: Designator=D2_$ChannelName(LED-1)
+Added Component: Designator=D2_$ChannelName(LED-1)
+Added Component: Designator=D2_$ChannelName(LED-1)
+Added Component: Designator=R3_$ChannelName(J1-0603)
+Added Component: Designator=R3_$ChannelName(J1-0603)
+Added Component: Designator=R3_$ChannelName(J1-0603)
+Added Component: Designator=R3_$ChannelName(J1-0603)
+Added Component: Designator=R3_$ChannelName(J1-0603)
+Added Component: Designator=R3_$ChannelName(J1-0603)
+Added Component: Designator=R23_$ChannelName(J1-0603)
+Added Component: Designator=R23_$ChannelName(J1-0603)
+Added Component: Designator=R23_$ChannelName(J1-0603)
+Added Component: Designator=R23_$ChannelName(J1-0603)
+Added Component: Designator=R23_$ChannelName(J1-0603)
+Added Component: Designator=R23_$ChannelName(J1-0603)
+Added Pin To Net: NetName=PCTRL1 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=PCTRL2 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=PCTRL3 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=PCTRL4 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=PCTRL5 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=PCTRL6 Pin=D1_$ChannelName-2
+Added Pin To Net: NetName=NCTRL1 Pin=D2_$ChannelName-1
+Added Pin To Net: NetName=NCTRL2 Pin=D2_$ChannelName-1
+Added Pin To Net: NetName=NCTRL3 Pin=D2_$ChannelName-1
+Added Pin To Net: NetName=NCTRL4 Pin=D2_$ChannelName-1
+Added Pin To Net: NetName=NCTRL5 Pin=D2_$ChannelName-1
+Added Pin To Net: NetName=NCTRL6 Pin=D2_$ChannelName-1
+Added Pin To Net: NetName=+5 Pin=R3_$ChannelName-2
+Added Pin To Net: NetName=+5 Pin=R3_$ChannelName-2
+Added Pin To Net: NetName=+5 Pin=R3_$ChannelName-2
+Added Pin To Net: NetName=+5 Pin=R3_$ChannelName-2
+Added Pin To Net: NetName=+5 Pin=R3_$ChannelName-2
+Added Pin To Net: NetName=+5 Pin=R3_$ChannelName-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B1-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B2-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B3-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B4-2
+Added Pin To Net: NetName=B+_$ChannelName Pin=R9.B5-2
+Added Pin To Net: NetName=GND Pin=R23_$ChannelName-1
+Added Pin To Net: NetName=GND Pin=R23_$ChannelName-1
+Added Pin To Net: NetName=GND Pin=R23_$ChannelName-1
+Added Pin To Net: NetName=GND Pin=R23_$ChannelName-1
+Added Pin To Net: NetName=GND Pin=R23_$ChannelName-1
+Added Pin To Net: NetName=GND Pin=R23_$ChannelName-1
+Added Pin To Net: NetName=NetD1_$ChannelName_1 Pin=D1_$ChannelName-1
+Added Pin To Net: NetName=NetD1_$ChannelName_1 Pin=R3_$ChannelName-1
+Added Net: Name=NetD1_$ChannelName_1
+Added Pin To Net: NetName=NetD2_$ChannelName_2 Pin=D2_$ChannelName-2
+Added Pin To Net: NetName=NetD2_$ChannelName_2 Pin=R23_$ChannelName-2
+Added Net: Name=NetD2_$ChannelName_2
+Added Member To Class: ClassName=u1 Member=Component *1 Arduino_Micro
+Added Member To Class: ClassName=B1 Member=Component D1_$ChannelName (D1) LED1
+Added Member To Class: ClassName=B2 Member=Component D1_$ChannelName (D1) LED1
+Added Member To Class: ClassName=B3 Member=Component D1_$ChannelName (D1) LED1
+Added Member To Class: ClassName=B4 Member=Component D1_$ChannelName (D1) LED1
+Added Member To Class: ClassName=B5 Member=Component D1_$ChannelName (D1) LED1
+Added Member To Class: ClassName=B6 Member=Component D1_$ChannelName (D1) LED1
+Added Member To Class: ClassName=B1 Member=Component D2_$ChannelName (D2) LED1
+Added Member To Class: ClassName=B2 Member=Component D2_$ChannelName (D2) LED1
+Added Member To Class: ClassName=B3 Member=Component D2_$ChannelName (D2) LED1
+Added Member To Class: ClassName=B4 Member=Component D2_$ChannelName (D2) LED1
+Added Member To Class: ClassName=B5 Member=Component D2_$ChannelName (D2) LED1
+Added Member To Class: ClassName=B6 Member=Component D2_$ChannelName (D2) LED1
+Added Member To Class: ClassName=B1 Member=Component R3_$ChannelName (R3) Res3
+Added Member To Class: ClassName=B2 Member=Component R3_$ChannelName (R3) Res3
+Added Member To Class: ClassName=B3 Member=Component R3_$ChannelName (R3) Res3
+Added Member To Class: ClassName=B4 Member=Component R3_$ChannelName (R3) Res3
+Added Member To Class: ClassName=B5 Member=Component R3_$ChannelName (R3) Res3
+Added Member To Class: ClassName=B6 Member=Component R3_$ChannelName (R3) Res3
+Added Member To Class: ClassName=B1 Member=Component R5.B1 (R7) Res3
+Added Member To Class: ClassName=B2 Member=Component R5.B2 (R7) Res3
+Added Member To Class: ClassName=B3 Member=Component R5.B3 (R7) Res3
+Added Member To Class: ClassName=B4 Member=Component R5.B4 (R7) Res3
+Added Member To Class: ClassName=B5 Member=Component R5.B5 (R7) Res3
+Added Member To Class: ClassName=B6 Member=Component R5.B6 (R7) Res3
+Added Member To Class: ClassName=B1 Member=Component R6.B1 (R8) Res3
+Added Member To Class: ClassName=B2 Member=Component R6.B2 (R8) Res3
+Added Member To Class: ClassName=B3 Member=Component R6.B3 (R8) Res3
+Added Member To Class: ClassName=B4 Member=Component R6.B4 (R8) Res3
+Added Member To Class: ClassName=B5 Member=Component R6.B5 (R8) Res3
+Added Member To Class: ClassName=B6 Member=Component R6.B6 (R8) Res3
+Added Member To Class: ClassName=B1 Member=Component R23_$ChannelName (R23) Res3
+Added Member To Class: ClassName=B2 Member=Component R23_$ChannelName (R23) Res3
+Added Member To Class: ClassName=B3 Member=Component R23_$ChannelName (R23) Res3
+Added Member To Class: ClassName=B4 Member=Component R23_$ChannelName (R23) Res3
+Added Member To Class: ClassName=B5 Member=Component R23_$ChannelName (R23) Res3
+Added Member To Class: ClassName=B6 Member=Component R23_$ChannelName (R23) Res3

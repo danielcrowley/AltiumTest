@@ -1,0 +1,150 @@
+Change Component Footprint: Designator=D1.B1 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D1.B2 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D1.B3 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D1.B4 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D1.B5 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D1.B6 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D2.B1 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D2.B2 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D2.B3 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D2.B4 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D2.B5 Old Footprint=LED-1 New Footprint=LED
+Change Component Footprint: Designator=D2.B6 Old Footprint=LED-1 New Footprint=LED
+Added Member To Class: ClassName=u1 Member=Component *1 Arduino_Micro
+Added Member To Class: ClassName=B1 Member=Component Batt.B1 (Batt) Antenna
+Added Member To Class: ClassName=B2 Member=Component Batt.B2 (Batt) Antenna
+Added Member To Class: ClassName=B3 Member=Component Batt.B3 (Batt) Antenna
+Added Member To Class: ClassName=B4 Member=Component Batt.B4 (Batt) Antenna
+Added Member To Class: ClassName=B5 Member=Component Batt.B5 (Batt) Antenna
+Added Member To Class: ClassName=B6 Member=Component Batt.B6 (Batt) Antenna
+Added Member To Class: ClassName=B1 Member=Component C1.B1 (C1) Cap
+Added Member To Class: ClassName=B2 Member=Component C1.B2 (C1) Cap
+Added Member To Class: ClassName=B3 Member=Component C1.B3 (C1) Cap
+Added Member To Class: ClassName=B4 Member=Component C1.B4 (C1) Cap
+Added Member To Class: ClassName=B5 Member=Component C1.B5 (C1) Cap
+Added Member To Class: ClassName=B6 Member=Component C1.B6 (C1) Cap
+Added Member To Class: ClassName=B1 Member=Component C2.B1 (C2) Cap
+Added Member To Class: ClassName=B2 Member=Component C2.B2 (C2) Cap
+Added Member To Class: ClassName=B3 Member=Component C2.B3 (C2) Cap
+Added Member To Class: ClassName=B4 Member=Component C2.B4 (C2) Cap
+Added Member To Class: ClassName=B5 Member=Component C2.B5 (C2) Cap
+Added Member To Class: ClassName=B6 Member=Component C2.B6 (C2) Cap
+Added Member To Class: ClassName=B1 Member=Component D1.B1 (D1) LED1
+Added Member To Class: ClassName=B2 Member=Component D1.B2 (D1) LED1
+Added Member To Class: ClassName=B3 Member=Component D1.B3 (D1) LED1
+Added Member To Class: ClassName=B4 Member=Component D1.B4 (D1) LED1
+Added Member To Class: ClassName=B5 Member=Component D1.B5 (D1) LED1
+Added Member To Class: ClassName=B6 Member=Component D1.B6 (D1) LED1
+Added Member To Class: ClassName=B1 Member=Component D2.B1 (D2) LED1
+Added Member To Class: ClassName=B2 Member=Component D2.B2 (D2) LED1
+Added Member To Class: ClassName=B3 Member=Component D2.B3 (D2) LED1
+Added Member To Class: ClassName=B4 Member=Component D2.B4 (D2) LED1
+Added Member To Class: ClassName=B5 Member=Component D2.B5 (D2) LED1
+Added Member To Class: ClassName=B6 Member=Component D2.B6 (D2) LED1
+Added Member To Class: ClassName=B1 Member=Component D.B1 (D) LED
+Added Member To Class: ClassName=B2 Member=Component D.B2 (D) LED
+Added Member To Class: ClassName=B3 Member=Component D.B3 (D) LED
+Added Member To Class: ClassName=B4 Member=Component D.B4 (D) LED
+Added Member To Class: ClassName=B5 Member=Component D.B5 (D) LED
+Added Member To Class: ClassName=B6 Member=Component D.B6 (D) LED
+Added Member To Class: ClassName=u1 Member=Component I2C I2C Header
+Added Member To Class: ClassName=B1 Member=Component LEDDriver.B1 (LEDDriver) LM3914
+Added Member To Class: ClassName=B2 Member=Component LEDDriver.B2 (LEDDriver) LM3914
+Added Member To Class: ClassName=B3 Member=Component LEDDriver.B3 (LEDDriver) LM3914
+Added Member To Class: ClassName=B4 Member=Component LEDDriver.B4 (LEDDriver) LM3914
+Added Member To Class: ClassName=B5 Member=Component LEDDriver.B5 (LEDDriver) LM3914
+Added Member To Class: ClassName=B6 Member=Component LEDDriver.B6 (LEDDriver) LM3914
+Added Member To Class: ClassName=Mutliplex Member=Component MP1 Multiplexer CD4097
+Added Member To Class: ClassName=B1 Member=Component NMOS*.B1 (NMOS*) Mosfet-N
+Added Member To Class: ClassName=B2 Member=Component NMOS*.B2 (NMOS*) Mosfet-N
+Added Member To Class: ClassName=B3 Member=Component NMOS*.B3 (NMOS*) Mosfet-N
+Added Member To Class: ClassName=B4 Member=Component NMOS*.B4 (NMOS*) Mosfet-N
+Added Member To Class: ClassName=B5 Member=Component NMOS*.B5 (NMOS*) Mosfet-N
+Added Member To Class: ClassName=B6 Member=Component NMOS*.B6 (NMOS*) Mosfet-N
+Added Member To Class: ClassName=B1 Member=Component OC_1.B1 (OC_1) OptoCoupler
+Added Member To Class: ClassName=B2 Member=Component OC_1.B2 (OC_1) OptoCoupler
+Added Member To Class: ClassName=B3 Member=Component OC_1.B3 (OC_1) OptoCoupler
+Added Member To Class: ClassName=B4 Member=Component OC_1.B4 (OC_1) OptoCoupler
+Added Member To Class: ClassName=B5 Member=Component OC_1.B5 (OC_1) OptoCoupler
+Added Member To Class: ClassName=B6 Member=Component OC_1.B6 (OC_1) OptoCoupler
+Added Member To Class: ClassName=B1 Member=Component OC_2.B1 (OC_2) OptoCoupler
+Added Member To Class: ClassName=B2 Member=Component OC_2.B2 (OC_2) OptoCoupler
+Added Member To Class: ClassName=B3 Member=Component OC_2.B3 (OC_2) OptoCoupler
+Added Member To Class: ClassName=B4 Member=Component OC_2.B4 (OC_2) OptoCoupler
+Added Member To Class: ClassName=B5 Member=Component OC_2.B5 (OC_2) OptoCoupler
+Added Member To Class: ClassName=B6 Member=Component OC_2.B6 (OC_2) OptoCoupler
+Added Member To Class: ClassName=B1 Member=Component PMos.B1 (PMos) Mosfet-P
+Added Member To Class: ClassName=B2 Member=Component PMos.B2 (PMos) Mosfet-P
+Added Member To Class: ClassName=B3 Member=Component PMos.B3 (PMos) Mosfet-P
+Added Member To Class: ClassName=B4 Member=Component PMos.B4 (PMos) Mosfet-P
+Added Member To Class: ClassName=B5 Member=Component PMos.B5 (PMos) Mosfet-P
+Added Member To Class: ClassName=B6 Member=Component PMos.B6 (PMos) Mosfet-P
+Added Member To Class: ClassName=B1 Member=Component R1.B1 (R1) Res3
+Added Member To Class: ClassName=B2 Member=Component R1.B2 (R1) Res3
+Added Member To Class: ClassName=B3 Member=Component R1.B3 (R1) Res3
+Added Member To Class: ClassName=B4 Member=Component R1.B4 (R1) Res3
+Added Member To Class: ClassName=B5 Member=Component R1.B5 (R1) Res3
+Added Member To Class: ClassName=B6 Member=Component R1.B6 (R1) Res3
+Added Member To Class: ClassName=B1 Member=Component R2.B1 (R2) Res3
+Added Member To Class: ClassName=B2 Member=Component R2.B2 (R2) Res3
+Added Member To Class: ClassName=B3 Member=Component R2.B3 (R2) Res3
+Added Member To Class: ClassName=B4 Member=Component R2.B4 (R2) Res3
+Added Member To Class: ClassName=B5 Member=Component R2.B5 (R2) Res3
+Added Member To Class: ClassName=B6 Member=Component R2.B6 (R2) Res3
+Added Member To Class: ClassName=B1 Member=Component R4.B1 (R4) Res3
+Added Member To Class: ClassName=B2 Member=Component R4.B2 (R4) Res3
+Added Member To Class: ClassName=B3 Member=Component R4.B3 (R4) Res3
+Added Member To Class: ClassName=B4 Member=Component R4.B4 (R4) Res3
+Added Member To Class: ClassName=B5 Member=Component R4.B5 (R4) Res3
+Added Member To Class: ClassName=B6 Member=Component R4.B6 (R4) Res3
+Added Member To Class: ClassName=B1 Member=Component R7.B1 (R7) Res3
+Added Member To Class: ClassName=B2 Member=Component R7.B2 (R7) Res3
+Added Member To Class: ClassName=B3 Member=Component R7.B3 (R7) Res3
+Added Member To Class: ClassName=B4 Member=Component R7.B4 (R7) Res3
+Added Member To Class: ClassName=B5 Member=Component R7.B5 (R7) Res3
+Added Member To Class: ClassName=B6 Member=Component R7.B6 (R7) Res3
+Added Member To Class: ClassName=B1 Member=Component R8.B1 (R8) Res3
+Added Member To Class: ClassName=B2 Member=Component R8.B2 (R8) Res3
+Added Member To Class: ClassName=B3 Member=Component R8.B3 (R8) Res3
+Added Member To Class: ClassName=B4 Member=Component R8.B4 (R8) Res3
+Added Member To Class: ClassName=B5 Member=Component R8.B5 (R8) Res3
+Added Member To Class: ClassName=B6 Member=Component R8.B6 (R8) Res3
+Added Member To Class: ClassName=B1 Member=Component R9.B1 (R9) Res3
+Added Member To Class: ClassName=B2 Member=Component R9.B2 (R9) Res3
+Added Member To Class: ClassName=B3 Member=Component R9.B3 (R9) Res3
+Added Member To Class: ClassName=B4 Member=Component R9.B4 (R9) Res3
+Added Member To Class: ClassName=B5 Member=Component R9.B5 (R9) Res3
+Added Member To Class: ClassName=B6 Member=Component R9.B6 (R9) Res3
+Added Member To Class: ClassName=B1 Member=Component R10.B1 (R10) Res3
+Added Member To Class: ClassName=B2 Member=Component R10.B2 (R10) Res3
+Added Member To Class: ClassName=B3 Member=Component R10.B3 (R10) Res3
+Added Member To Class: ClassName=B4 Member=Component R10.B4 (R10) Res3
+Added Member To Class: ClassName=B5 Member=Component R10.B5 (R10) Res3
+Added Member To Class: ClassName=B6 Member=Component R10.B6 (R10) Res3
+Added Member To Class: ClassName=B1 Member=Component R11.B1 (R11) Res3
+Added Member To Class: ClassName=B2 Member=Component R11.B2 (R11) Res3
+Added Member To Class: ClassName=B3 Member=Component R11.B3 (R11) Res3
+Added Member To Class: ClassName=B4 Member=Component R11.B4 (R11) Res3
+Added Member To Class: ClassName=B5 Member=Component R11.B5 (R11) Res3
+Added Member To Class: ClassName=B6 Member=Component R11.B6 (R11) Res3
+Added Member To Class: ClassName=B1 Member=Component R12.B1 (R12) Res3
+Added Member To Class: ClassName=B2 Member=Component R12.B2 (R12) Res3
+Added Member To Class: ClassName=B3 Member=Component R12.B3 (R12) Res3
+Added Member To Class: ClassName=B4 Member=Component R12.B4 (R12) Res3
+Added Member To Class: ClassName=B5 Member=Component R12.B5 (R12) Res3
+Added Member To Class: ClassName=B6 Member=Component R12.B6 (R12) Res3
+Added Member To Class: ClassName=SwitchingModule Member=Component R18 Res3
+Added Member To Class: ClassName=SwitchingModule Member=Component R19 Res3
+Added Member To Class: ClassName=B1 Member=Component R22.B1 (R22) Res3
+Added Member To Class: ClassName=B2 Member=Component R22.B2 (R22) Res3
+Added Member To Class: ClassName=B3 Member=Component R22.B3 (R22) Res3
+Added Member To Class: ClassName=B4 Member=Component R22.B4 (R22) Res3
+Added Member To Class: ClassName=B5 Member=Component R22.B5 (R22) Res3
+Added Member To Class: ClassName=B6 Member=Component R22.B6 (R22) Res3
+Added Member To Class: ClassName=B1 Member=Component R23.B1 (R23) Res3
+Added Member To Class: ClassName=B2 Member=Component R23.B2 (R23) Res3
+Added Member To Class: ClassName=B3 Member=Component R23.B3 (R23) Res3
+Added Member To Class: ClassName=B4 Member=Component R23.B4 (R23) Res3
+Added Member To Class: ClassName=B5 Member=Component R23.B5 (R23) Res3
+Added Member To Class: ClassName=B6 Member=Component R23.B6 (R23) Res3
+Added Member To Class: ClassName=u1 Member=Component Serial SerialHeader

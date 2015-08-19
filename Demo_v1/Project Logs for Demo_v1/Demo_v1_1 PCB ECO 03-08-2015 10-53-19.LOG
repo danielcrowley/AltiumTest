@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=ADC+ Pin=MP1-1
+Change Component Footprint: Designator=MP1 Old Footprint=TSSOP16 New Footprint=SOIC24

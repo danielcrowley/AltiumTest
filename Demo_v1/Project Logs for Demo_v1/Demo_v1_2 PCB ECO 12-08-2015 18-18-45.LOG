@@ -1,0 +1,9 @@
+Added Component: Designator=R22.B1(J1-0603)
+Added Pin To Net: NetName=PCTRL1 Pin=R22.B1-1
+Added Pin To Net: NetName=NetD1.B1_2 Pin=R22.B1-2
+Added Member To Class: ClassName=B1 Member=Component R22.B1 (R22) Res3
+Added Member To Class: ClassName=B2 Member=Component R22.B2 (R22) Res3
+Added Member To Class: ClassName=B3 Member=Component R22.B3 (R22) Res3
+Added Member To Class: ClassName=B4 Member=Component R22.B4 (R22) Res3
+Added Member To Class: ClassName=B5 Member=Component R22.B5 (R22) Res3
+Added Member To Class: ClassName=B6 Member=Component R22.B6 (R22) Res3
